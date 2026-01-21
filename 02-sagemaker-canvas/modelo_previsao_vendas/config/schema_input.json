@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Model Input Schema",
+  "type": "object",
+  "required": ["ID_PRODUTO", "DIA", "FLAG_PROMOCAO", "QUANTIDADE_ESTOQUE"],
+  
+  "properties": {
+    "ID_PRODUTO": {
+      "type": "integer",
+      "description": "ID do produto (1001-1050)",
+      "minimum": 1001,
+      "maximum": 1050
+    },
+    
+    "DIA": {
+      "type": "string",
+      "description": "Data no formato dd/mm/aaaa",
+      "pattern": "^\\d{2}/\\d{2}/\\d{4}$"
+    },
+    
+    "FLAG_PROMOCAO": {
+      "type": "integer",
+      "description": "Indicador de promoção",
+      "enum": [0, 1]
+    },
+    
+    "QUANTIDADE_ESTOQUE": {
+      "type": "integer",
+      "description": "Quantidade atual em estoque",
+      "minimum": 0,
+      "maximum": 1000
+    }
+  },
+  
+  "examples": [
+    {
+      "ID_PRODUTO": 1001,
+      "DIA": "20/01/2024",
+      "FLAG_PROMOCAO": 0,
+      "QUANTIDADE_ESTOQUE": 50
+    }
+  ]
+}

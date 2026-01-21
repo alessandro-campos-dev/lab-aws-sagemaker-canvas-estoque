@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Model Output Schema",
+  "type": "object",
+  "required": ["prediction", "confidence", "alerts"],
+  
+  "properties": {
+    "prediction": {
+      "type": "object",
+      "properties": {
+        "estoque_previsto": {
+          "type": "number",
+          "description": "Quantidade prevista em estoque"
+        },
+        "demanda_prevista": {
+          "type": "number",
+          "description": "Demanda prevista para o dia"
+        }
+      }
+    },
+    
+    "confidence": {
+      "type": "object",
+      "properties": {
+        "score": {
+          "type": "number",
+          "description": "Confiança da previsão (0-1)",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "interval_95": {
+          "type": "array",
+          "items": {"type": "number"},
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "Intervalo de confiança de 95%"
+        }
+      }
+    },
+    
+    "alerts": {
+      "type": "object",
+      "properties": {
+        "level": {
+          "type": "string",
+          "enum": ["NORMAL", "ALERTA", "CRITICO"],
+          "description": "Nível de alerta do estoque"
+        },
+        "dias_ate_ruptura": {
+          "type": "number",
+          "description": "Dias estimados até ruptura"
+        },
+        "recommendation": {
+          "type": "string",
+          "description": "Recomendação de ação"
+        }
+      }
+    },
+    
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "model_version": {"type": "string"},
+        "inference_timestamp": {"type": "string", "format": "date-time"},
+        "processing_time_ms": {"type": "number"}
+      }
+    }
+  },
+  
+  "examples": [
+    {
+      "prediction": {
+        "estoque_previsto": 45,
+        "demanda_prevista": 18
+      },
+      "confidence": {
+        "score": 0.87,
+        "interval_95": [38, 52]
+      },
+      "alerts": {
+        "level": "NORMAL",
+        "dias_ate_ruptura": 2.5,
+        "recommendation": "Monitorar diariamente"
+      },
+      "metadata": {
+        "model_version": "1.0.0",
+        "inference_timestamp": "2024-01-26T10:30:00Z",
+        "processing_time_ms": 45
+      }
+    }
+  ]
+}

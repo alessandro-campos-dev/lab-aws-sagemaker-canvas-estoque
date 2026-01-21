@@ -1,0 +1,48 @@
+features:
+  input_features:
+    - name: ID_PRODUTO
+      type: categorical
+      encoding: label_encoding
+      missing_value_strategy: most_frequent
+    
+    - name: DIA
+      type: datetime
+      format: "%d/%m/%Y"
+      derived_features:
+        - day_of_week
+        - is_weekend
+        - month
+    
+    - name: FLAG_PROMOCAO
+      type: binary
+      values: [0, 1]
+      missing_value_strategy: zero
+    
+    - name: QUANTIDADE_ESTOQUE
+      type: numerical
+      scaling: standard
+      missing_value_strategy: rolling_mean(window=3)
+
+  derived_features:
+    lags:
+      - feature: QUANTIDADE_ESTOQUE
+        lags: [1, 2, 3, 7]
+    
+    rolling_features:
+      - feature: QUANTIDADE_ESTOQUE
+        windows: [3, 7]
+        aggregations: [mean, std, min, max]
+    
+    interaction_features:
+      - features: [FLAG_PROMOCAO, day_of_week]
+        operation: multiply
+
+  target_feature:
+    name: QUANTIDADE_ESTOQUE_next
+    type: numerical
+    horizon: 1
+
+feature_selection:
+  method: importance_threshold
+  threshold: 0.01
+  selected_features: 15

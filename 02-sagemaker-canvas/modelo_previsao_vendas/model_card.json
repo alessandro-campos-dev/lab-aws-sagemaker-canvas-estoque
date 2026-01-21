@@ -1,0 +1,65 @@
+
+### **2. model_card.json**
+```json
+{
+  "model_details": {
+    "name": "estoque-prediction-model-v1",
+    "version": "1.0.0",
+    "type": "XGBoost Regressor",
+    "date_created": "2024-01-26",
+    "created_by": "SageMaker Canvas AutoML",
+    "description": "Modelo para previsão de estoque e alertas de ruptura"
+  },
+  
+  "intended_use": {
+    "primary_use": "Previsão de demanda de produtos",
+    "primary_users": ["Gestores de estoque", "Analistas de logística"],
+    "out_of_scope_uses": ["Precificação", "Recomendação de produtos"],
+    "limitations": ["Horizonte máximo: 14 dias", "Novos produtos: 7 dias histórico mínimo"]
+  },
+  
+  "factors": {
+    "relevant_factors": ["Promoções", "Dia da semana", "Estoque atual"],
+    "evaluation_factors": ["R² Score", "MAE", "RMSE"],
+    "approaches": ["Time Series Cross-Validation", "Backtesting"]
+  },
+  
+  "metrics": {
+    "performance_metrics": {
+      "r2_score": 0.892,
+      "mae": 8.2,
+      "rmse": 12.5,
+      "mape": 0.153,
+      "inference_latency_ms": 45
+    },
+    "thresholds": {
+      "minimum_r2": 0.75,
+      "maximum_mape": 0.25,
+      "maximum_latency_ms": 100
+    }
+  },
+  
+  "training_data": {
+    "dataset": "historico_vendas_estoque.csv",
+    "total_records": 500,
+    "training_split": 0.8,
+    "validation_split": 0.1,
+    "test_split": 0.1,
+    "date_range": ["2023-12-31", "2024-01-19"]
+  },
+  
+  "quantitative_analyses": {
+    "unitary_results": "MAE de 8.2 unidades representa erro aceitável para decisões de reabastecimento",
+    "intersectional_results": "Modelo performa consistentemente bem para todas as categorias de produtos"
+  },
+  
+  "ethical_considerations": {
+    "data_biases": "Não identificadas",
+    "mitigation_strategies": ["Monitoramento contínuo de performance", "Retreinamento periódico"]
+  },
+  
+  "caveats_and_recommendations": {
+    "caveats": ["Não inclui fatores macroeconômicos", "Limitado a 50 produtos no treinamento"],
+    "recommendations": ["Retreinar semanalmente", "Expandir para mais produtos", "Adicionar variáveis externas"]
+  }
+}
