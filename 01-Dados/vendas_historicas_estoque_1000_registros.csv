@@ -1,0 +1,1001 @@
+date,product_id,product_name,category,units_sold,price,promotion,stock_level,region
+2023-05-11,P002,Álcool Gel 70%,Higiene,105,22.61,0,335,Centro-Oeste
+2023-07-04,P002,Álcool Gel 70%,Higiene,81,15.5,0,285,Centro-Oeste
+2023-07-05,P001,Paracetamol 500mg,Medicamentos,117,19.61,0,353,Centro-Oeste
+2023-06-15,P001,Paracetamol 500mg,Medicamentos,99,15.75,0,353,Centro-Oeste
+2023-04-13,P004,Vitamina C,Suplementos,125,26.81,1,253,Sul
+2023-06-19,P003,Luvas Cirúrgicas,Hospitalar,44,16.15,0,225,Sudeste
+2023-06-06,P003,Luvas Cirúrgicas,Hospitalar,90,7.21,0,299,Sudeste
+2023-05-09,P002,Álcool Gel 70%,Higiene,106,9.62,0,239,Centro-Oeste
+2023-08-03,P004,Vitamina C,Suplementos,82,15.16,0,317,Sul
+2023-02-04,P001,Paracetamol 500mg,Medicamentos,79,27.09,1,317,Centro-Oeste
+2023-07-22,P004,Vitamina C,Suplementos,71,12.48,1,246,Sul
+2023-01-20,P001,Paracetamol 500mg,Medicamentos,163,16.65,0,382,Centro-Oeste
+2023-06-09,P001,Paracetamol 500mg,Medicamentos,159,18.88,1,174,Centro-Oeste
+2023-09-01,P002,Álcool Gel 70%,Higiene,100,8.43,0,206,Centro-Oeste
+2023-08-23,P003,Luvas Cirúrgicas,Hospitalar,147,15.39,0,345,Sudeste
+2023-08-13,P004,Vitamina C,Suplementos,168,16.46,0,250,Sul
+2023-03-12,P001,Paracetamol 500mg,Medicamentos,79,11.61,0,444,Centro-Oeste
+2023-08-09,P004,Vitamina C,Suplementos,101,13.33,1,335,Sul
+2023-07-10,P002,Álcool Gel 70%,Higiene,110,14.19,0,414,Centro-Oeste
+2023-03-21,P004,Vitamina C,Suplementos,127,17.46,0,327,Sul
+2023-05-18,P002,Álcool Gel 70%,Higiene,86,17.94,0,291,Centro-Oeste
+2023-02-13,P003,Luvas Cirúrgicas,Hospitalar,91,25.34,0,221,Sudeste
+2023-04-03,P004,Vitamina C,Suplementos,102,15.75,1,292,Sul
+2023-05-12,P004,Vitamina C,Suplementos,129,22.93,0,334,Sul
+2023-02-22,P003,Luvas Cirúrgicas,Hospitalar,105,29.64,0,285,Sudeste
+2023-02-28,P004,Vitamina C,Suplementos,108,12.36,0,371,Sul
+2023-01-26,P002,Álcool Gel 70%,Higiene,85,8.95,1,318,Centro-Oeste
+2023-09-04,P003,Luvas Cirúrgicas,Hospitalar,109,11.16,1,295,Sudeste
+2023-08-14,P003,Luvas Cirúrgicas,Hospitalar,71,24.6,0,245,Sudeste
+2023-08-25,P004,Vitamina C,Suplementos,46,22.17,0,191,Sul
+2023-03-28,P003,Luvas Cirúrgicas,Hospitalar,103,25.84,1,343,Sudeste
+2023-02-04,P004,Vitamina C,Suplementos,54,17.64,1,409,Sul
+2023-06-05,P002,Álcool Gel 70%,Higiene,52,17.05,0,336,Centro-Oeste
+2023-05-05,P004,Vitamina C,Suplementos,72,9.16,1,319,Sul
+2023-04-03,P003,Luvas Cirúrgicas,Hospitalar,111,28.15,0,499,Sudeste
+2023-02-19,P003,Luvas Cirúrgicas,Hospitalar,121,7.45,0,209,Sudeste
+2023-06-21,P004,Vitamina C,Suplementos,54,17.36,1,341,Sul
+2023-05-27,P001,Paracetamol 500mg,Medicamentos,107,16.98,1,315,Centro-Oeste
+2023-08-14,P002,Álcool Gel 70%,Higiene,105,25.94,0,334,Centro-Oeste
+2023-01-15,P004,Vitamina C,Suplementos,106,28.53,0,200,Sul
+2023-03-24,P001,Paracetamol 500mg,Medicamentos,148,27.21,0,336,Centro-Oeste
+2023-01-25,P001,Paracetamol 500mg,Medicamentos,134,25.21,1,363,Centro-Oeste
+2023-03-20,P001,Paracetamol 500mg,Medicamentos,102,14.75,1,197,Centro-Oeste
+2023-09-01,P003,Luvas Cirúrgicas,Hospitalar,150,27.19,0,451,Sudeste
+2023-03-16,P004,Vitamina C,Suplementos,101,11.59,0,309,Sul
+2023-03-11,P002,Álcool Gel 70%,Higiene,110,24.73,1,336,Centro-Oeste
+2023-08-20,P001,Paracetamol 500mg,Medicamentos,74,19.62,0,302,Centro-Oeste
+2023-05-31,P002,Álcool Gel 70%,Higiene,100,22.58,0,343,Centro-Oeste
+2023-04-20,P004,Vitamina C,Suplementos,86,27.07,1,172,Sul
+2023-07-29,P002,Álcool Gel 70%,Higiene,84,16.89,1,215,Centro-Oeste
+2023-05-23,P003,Luvas Cirúrgicas,Hospitalar,119,8.16,0,375,Sudeste
+2023-08-08,P004,Vitamina C,Suplementos,131,10.75,0,432,Sul
+2023-03-07,P002,Álcool Gel 70%,Higiene,111,26.14,0,268,Centro-Oeste
+2023-05-25,P003,Luvas Cirúrgicas,Hospitalar,111,13.24,0,259,Sudeste
+2023-01-06,P004,Vitamina C,Suplementos,102,14.23,0,276,Sul
+2023-01-08,P003,Luvas Cirúrgicas,Hospitalar,57,9.76,0,266,Sudeste
+2023-06-04,P002,Álcool Gel 70%,Higiene,94,25.56,0,271,Centro-Oeste
+2023-01-03,P003,Luvas Cirúrgicas,Hospitalar,124,14.17,0,202,Sudeste
+2023-02-25,P002,Álcool Gel 70%,Higiene,134,9.45,0,243,Centro-Oeste
+2023-07-25,P001,Paracetamol 500mg,Medicamentos,87,25.43,0,209,Centro-Oeste
+2023-03-16,P001,Paracetamol 500mg,Medicamentos,80,27.05,0,261,Centro-Oeste
+2023-01-14,P003,Luvas Cirúrgicas,Hospitalar,118,13.46,0,231,Sudeste
+2023-05-16,P003,Luvas Cirúrgicas,Hospitalar,96,15.87,0,335,Sudeste
+2023-02-22,P002,Álcool Gel 70%,Higiene,109,21.57,0,163,Centro-Oeste
+2023-06-01,P001,Paracetamol 500mg,Medicamentos,103,15.01,0,423,Centro-Oeste
+2023-06-23,P001,Paracetamol 500mg,Medicamentos,84,11.58,1,321,Centro-Oeste
+2023-06-15,P003,Luvas Cirúrgicas,Hospitalar,54,23.21,1,271,Sudeste
+2023-08-05,P003,Luvas Cirúrgicas,Hospitalar,106,21.49,0,355,Sudeste
+2023-01-18,P003,Luvas Cirúrgicas,Hospitalar,101,19.43,0,247,Sudeste
+2023-05-16,P004,Vitamina C,Suplementos,64,19.74,0,311,Sul
+2023-01-27,P004,Vitamina C,Suplementos,96,13.57,1,332,Sul
+2023-05-04,P002,Álcool Gel 70%,Higiene,111,9.22,0,447,Centro-Oeste
+2023-05-28,P003,Luvas Cirúrgicas,Hospitalar,100,16.95,0,348,Sudeste
+2023-07-05,P002,Álcool Gel 70%,Higiene,113,24.99,1,416,Centro-Oeste
+2023-03-15,P001,Paracetamol 500mg,Medicamentos,101,23.31,1,248,Centro-Oeste
+2023-03-14,P002,Álcool Gel 70%,Higiene,69,20.05,0,277,Centro-Oeste
+2023-06-13,P001,Paracetamol 500mg,Medicamentos,112,28.9,0,412,Centro-Oeste
+2023-01-10,P004,Vitamina C,Suplementos,53,21.84,0,305,Sul
+2023-05-28,P002,Álcool Gel 70%,Higiene,118,8.11,0,396,Centro-Oeste
+2023-03-18,P004,Vitamina C,Suplementos,99,12.69,1,393,Sul
+2023-06-19,P004,Vitamina C,Suplementos,97,13.18,0,184,Sul
+2023-01-17,P003,Luvas Cirúrgicas,Hospitalar,76,20.3,0,281,Sudeste
+2023-03-10,P004,Vitamina C,Suplementos,92,11.9,0,328,Sul
+2023-01-17,P004,Vitamina C,Suplementos,169,13.59,0,150,Sul
+2023-03-21,P003,Luvas Cirúrgicas,Hospitalar,121,14.27,0,293,Sudeste
+2023-05-18,P001,Paracetamol 500mg,Medicamentos,133,21.28,0,456,Centro-Oeste
+2023-09-07,P003,Luvas Cirúrgicas,Hospitalar,66,13.01,0,297,Sudeste
+2023-06-28,P003,Luvas Cirúrgicas,Hospitalar,112,17.1,0,348,Sudeste
+2023-07-08,P002,Álcool Gel 70%,Higiene,125,25.74,1,201,Centro-Oeste
+2023-03-23,P004,Vitamina C,Suplementos,98,27.03,1,326,Sul
+2023-04-06,P003,Luvas Cirúrgicas,Hospitalar,104,29.62,0,273,Sudeste
+2023-04-23,P004,Vitamina C,Suplementos,113,21.0,0,297,Sul
+2023-05-11,P003,Luvas Cirúrgicas,Hospitalar,97,21.63,1,301,Sudeste
+2023-02-24,P003,Luvas Cirúrgicas,Hospitalar,70,20.03,0,384,Sudeste
+2023-07-16,P004,Vitamina C,Suplementos,63,12.35,0,216,Sul
+2023-04-20,P001,Paracetamol 500mg,Medicamentos,93,26.32,0,223,Centro-Oeste
+2023-07-11,P001,Paracetamol 500mg,Medicamentos,107,20.36,1,383,Centro-Oeste
+2023-01-23,P001,Paracetamol 500mg,Medicamentos,126,23.91,1,324,Centro-Oeste
+2023-01-16,P004,Vitamina C,Suplementos,115,26.94,1,341,Sul
+2023-07-26,P003,Luvas Cirúrgicas,Hospitalar,126,28.78,1,263,Sudeste
+2023-06-29,P001,Paracetamol 500mg,Medicamentos,87,10.8,0,276,Centro-Oeste
+2023-03-29,P004,Vitamina C,Suplementos,119,11.99,0,333,Sul
+2023-08-23,P001,Paracetamol 500mg,Medicamentos,133,7.96,0,338,Centro-Oeste
+2023-03-06,P001,Paracetamol 500mg,Medicamentos,120,13.14,1,447,Centro-Oeste
+2023-06-08,P004,Vitamina C,Suplementos,87,28.86,0,354,Sul
+2023-06-11,P001,Paracetamol 500mg,Medicamentos,110,7.0,0,261,Centro-Oeste
+2023-05-19,P003,Luvas Cirúrgicas,Hospitalar,46,13.57,0,400,Sudeste
+2023-08-28,P004,Vitamina C,Suplementos,113,20.35,1,97,Sul
+2023-02-12,P001,Paracetamol 500mg,Medicamentos,124,27.85,0,123,Centro-Oeste
+2023-08-18,P002,Álcool Gel 70%,Higiene,73,22.22,0,243,Centro-Oeste
+2023-05-13,P001,Paracetamol 500mg,Medicamentos,64,14.05,1,373,Centro-Oeste
+2023-07-25,P004,Vitamina C,Suplementos,102,24.83,0,403,Sul
+2023-09-04,P002,Álcool Gel 70%,Higiene,101,12.17,0,304,Centro-Oeste
+2023-07-24,P001,Paracetamol 500mg,Medicamentos,115,8.16,0,614,Centro-Oeste
+2023-01-22,P003,Luvas Cirúrgicas,Hospitalar,108,8.64,0,250,Sudeste
+2023-04-19,P001,Paracetamol 500mg,Medicamentos,120,25.14,0,376,Centro-Oeste
+2023-02-16,P001,Paracetamol 500mg,Medicamentos,95,25.47,0,265,Centro-Oeste
+2023-09-02,P003,Luvas Cirúrgicas,Hospitalar,129,8.77,0,131,Sudeste
+2023-05-14,P003,Luvas Cirúrgicas,Hospitalar,139,14.83,0,411,Sudeste
+2023-03-15,P003,Luvas Cirúrgicas,Hospitalar,139,17.4,0,315,Sudeste
+2023-08-12,P001,Paracetamol 500mg,Medicamentos,97,23.03,0,266,Centro-Oeste
+2023-04-17,P002,Álcool Gel 70%,Higiene,151,27.38,0,268,Centro-Oeste
+2023-06-28,P002,Álcool Gel 70%,Higiene,111,22.57,1,274,Centro-Oeste
+2023-03-07,P001,Paracetamol 500mg,Medicamentos,94,14.71,1,311,Centro-Oeste
+2023-03-01,P002,Álcool Gel 70%,Higiene,84,18.04,0,412,Centro-Oeste
+2023-05-20,P004,Vitamina C,Suplementos,117,21.41,1,64,Sul
+2023-05-26,P004,Vitamina C,Suplementos,59,26.38,0,234,Sul
+2023-04-22,P002,Álcool Gel 70%,Higiene,93,13.25,1,329,Centro-Oeste
+2023-08-05,P004,Vitamina C,Suplementos,106,22.58,0,430,Sul
+2023-07-20,P001,Paracetamol 500mg,Medicamentos,146,9.9,0,278,Centro-Oeste
+2023-05-30,P004,Vitamina C,Suplementos,93,18.34,0,220,Sul
+2023-08-01,P002,Álcool Gel 70%,Higiene,114,15.26,1,176,Centro-Oeste
+2023-03-08,P002,Álcool Gel 70%,Higiene,118,9.36,1,314,Centro-Oeste
+2023-09-06,P004,Vitamina C,Suplementos,120,7.58,0,235,Sul
+2023-05-13,P002,Álcool Gel 70%,Higiene,141,25.92,1,279,Centro-Oeste
+2023-01-14,P004,Vitamina C,Suplementos,67,28.63,1,338,Sul
+2023-01-31,P001,Paracetamol 500mg,Medicamentos,86,17.36,0,349,Centro-Oeste
+2023-02-23,P004,Vitamina C,Suplementos,44,18.94,0,197,Sul
+2023-01-07,P002,Álcool Gel 70%,Higiene,75,28.38,1,259,Centro-Oeste
+2023-01-19,P001,Paracetamol 500mg,Medicamentos,76,7.58,1,290,Centro-Oeste
+2023-01-12,P001,Paracetamol 500mg,Medicamentos,107,14.8,0,362,Centro-Oeste
+2023-03-03,P004,Vitamina C,Suplementos,142,23.01,0,254,Sul
+2023-06-30,P002,Álcool Gel 70%,Higiene,130,16.56,0,467,Centro-Oeste
+2023-03-12,P002,Álcool Gel 70%,Higiene,103,13.19,1,245,Centro-Oeste
+2023-08-12,P002,Álcool Gel 70%,Higiene,60,27.38,1,362,Centro-Oeste
+2023-08-17,P003,Luvas Cirúrgicas,Hospitalar,113,13.75,0,241,Sudeste
+2023-07-22,P003,Luvas Cirúrgicas,Hospitalar,37,9.16,0,253,Sudeste
+2023-03-03,P001,Paracetamol 500mg,Medicamentos,104,20.98,0,339,Centro-Oeste
+2023-07-25,P003,Luvas Cirúrgicas,Hospitalar,120,28.37,0,447,Sudeste
+2023-03-22,P002,Álcool Gel 70%,Higiene,133,11.64,0,216,Centro-Oeste
+2023-06-10,P004,Vitamina C,Suplementos,46,16.78,0,325,Sul
+2023-02-09,P003,Luvas Cirúrgicas,Hospitalar,130,12.86,0,253,Sudeste
+2023-09-02,P002,Álcool Gel 70%,Higiene,101,12.65,0,215,Centro-Oeste
+2023-04-18,P002,Álcool Gel 70%,Higiene,146,19.9,0,460,Centro-Oeste
+2023-08-24,P002,Álcool Gel 70%,Higiene,69,22.54,0,398,Centro-Oeste
+2023-04-26,P003,Luvas Cirúrgicas,Hospitalar,126,19.39,0,293,Sudeste
+2023-03-19,P002,Álcool Gel 70%,Higiene,89,29.3,0,210,Centro-Oeste
+2023-06-24,P002,Álcool Gel 70%,Higiene,114,24.09,1,200,Centro-Oeste
+2023-01-16,P001,Paracetamol 500mg,Medicamentos,73,21.15,1,312,Centro-Oeste
+2023-08-10,P001,Paracetamol 500mg,Medicamentos,114,15.62,0,278,Centro-Oeste
+2023-05-29,P004,Vitamina C,Suplementos,111,23.99,0,227,Sul
+2023-07-11,P004,Vitamina C,Suplementos,111,11.87,1,131,Sul
+2023-06-12,P002,Álcool Gel 70%,Higiene,86,15.53,1,336,Centro-Oeste
+2023-06-12,P003,Luvas Cirúrgicas,Hospitalar,82,20.58,0,413,Sudeste
+2023-08-05,P002,Álcool Gel 70%,Higiene,54,18.56,1,325,Centro-Oeste
+2023-06-17,P001,Paracetamol 500mg,Medicamentos,136,27.84,0,320,Centro-Oeste
+2023-03-16,P003,Luvas Cirúrgicas,Hospitalar,151,12.25,1,334,Sudeste
+2023-06-22,P002,Álcool Gel 70%,Higiene,99,9.13,1,286,Centro-Oeste
+2023-03-20,P003,Luvas Cirúrgicas,Hospitalar,89,7.84,1,272,Sudeste
+2023-03-19,P003,Luvas Cirúrgicas,Hospitalar,61,24.79,0,392,Sudeste
+2023-04-01,P002,Álcool Gel 70%,Higiene,116,11.03,0,306,Centro-Oeste
+2023-04-30,P004,Vitamina C,Suplementos,136,15.1,1,421,Sul
+2023-01-28,P003,Luvas Cirúrgicas,Hospitalar,164,20.44,1,238,Sudeste
+2023-09-05,P002,Álcool Gel 70%,Higiene,76,16.56,0,333,Centro-Oeste
+2023-05-02,P003,Luvas Cirúrgicas,Hospitalar,119,12.99,1,388,Sudeste
+2023-04-01,P004,Vitamina C,Suplementos,77,22.29,1,398,Sul
+2023-03-05,P003,Luvas Cirúrgicas,Hospitalar,84,26.58,0,317,Sudeste
+2023-03-06,P004,Vitamina C,Suplementos,141,10.65,1,351,Sul
+2023-07-20,P003,Luvas Cirúrgicas,Hospitalar,108,15.56,0,178,Sudeste
+2023-06-19,P002,Álcool Gel 70%,Higiene,93,23.97,1,226,Centro-Oeste
+2023-05-04,P003,Luvas Cirúrgicas,Hospitalar,99,13.93,0,275,Sudeste
+2023-06-17,P003,Luvas Cirúrgicas,Hospitalar,69,21.29,0,191,Sudeste
+2023-04-05,P002,Álcool Gel 70%,Higiene,81,7.59,0,285,Centro-Oeste
+2023-05-12,P003,Luvas Cirúrgicas,Hospitalar,104,14.89,1,217,Sudeste
+2023-07-31,P002,Álcool Gel 70%,Higiene,71,10.97,0,306,Centro-Oeste
+2023-02-04,P002,Álcool Gel 70%,Higiene,96,25.54,1,282,Centro-Oeste
+2023-03-30,P004,Vitamina C,Suplementos,117,13.31,0,430,Sul
+2023-04-02,P002,Álcool Gel 70%,Higiene,136,18.98,0,311,Centro-Oeste
+2023-08-24,P003,Luvas Cirúrgicas,Hospitalar,91,16.48,1,427,Sudeste
+2023-07-07,P002,Álcool Gel 70%,Higiene,72,25.9,0,421,Centro-Oeste
+2023-08-26,P001,Paracetamol 500mg,Medicamentos,84,25.72,1,314,Centro-Oeste
+2023-07-27,P002,Álcool Gel 70%,Higiene,81,17.18,0,281,Centro-Oeste
+2023-06-14,P001,Paracetamol 500mg,Medicamentos,90,28.18,0,443,Centro-Oeste
+2023-02-19,P004,Vitamina C,Suplementos,84,22.01,0,339,Sul
+2023-02-23,P002,Álcool Gel 70%,Higiene,130,11.75,0,337,Centro-Oeste
+2023-04-13,P001,Paracetamol 500mg,Medicamentos,89,28.35,0,232,Centro-Oeste
+2023-03-25,P001,Paracetamol 500mg,Medicamentos,147,15.94,0,232,Centro-Oeste
+2023-02-22,P001,Paracetamol 500mg,Medicamentos,103,16.78,0,312,Centro-Oeste
+2023-06-03,P002,Álcool Gel 70%,Higiene,75,28.1,0,199,Centro-Oeste
+2023-01-20,P003,Luvas Cirúrgicas,Hospitalar,113,17.91,0,361,Sudeste
+2023-01-08,P002,Álcool Gel 70%,Higiene,108,7.16,0,320,Centro-Oeste
+2023-05-14,P004,Vitamina C,Suplementos,49,22.57,0,235,Sul
+2023-06-23,P004,Vitamina C,Suplementos,82,28.88,1,319,Sul
+2023-05-20,P002,Álcool Gel 70%,Higiene,115,20.19,1,351,Centro-Oeste
+2023-07-29,P001,Paracetamol 500mg,Medicamentos,134,13.25,0,211,Centro-Oeste
+2023-05-30,P001,Paracetamol 500mg,Medicamentos,64,23.4,0,431,Centro-Oeste
+2023-02-11,P002,Álcool Gel 70%,Higiene,126,16.03,1,273,Centro-Oeste
+2023-08-18,P003,Luvas Cirúrgicas,Hospitalar,92,23.76,0,303,Sudeste
+2023-05-04,P004,Vitamina C,Suplementos,68,24.09,0,214,Sul
+2023-07-26,P001,Paracetamol 500mg,Medicamentos,94,29.11,0,294,Centro-Oeste
+2023-01-17,P002,Álcool Gel 70%,Higiene,128,27.47,0,352,Centro-Oeste
+2023-02-05,P002,Álcool Gel 70%,Higiene,96,19.25,0,223,Centro-Oeste
+2023-08-20,P002,Álcool Gel 70%,Higiene,53,12.53,0,420,Centro-Oeste
+2023-07-26,P004,Vitamina C,Suplementos,73,13.48,1,376,Sul
+2023-06-13,P004,Vitamina C,Suplementos,118,26.03,0,285,Sul
+2023-03-24,P004,Vitamina C,Suplementos,94,14.47,0,301,Sul
+2023-06-16,P001,Paracetamol 500mg,Medicamentos,120,11.12,1,333,Centro-Oeste
+2023-03-04,P002,Álcool Gel 70%,Higiene,146,9.1,1,443,Centro-Oeste
+2023-08-15,P004,Vitamina C,Suplementos,108,26.54,0,220,Sul
+2023-06-27,P001,Paracetamol 500mg,Medicamentos,90,14.13,0,251,Centro-Oeste
+2023-03-18,P002,Álcool Gel 70%,Higiene,144,23.86,0,410,Centro-Oeste
+2023-07-03,P003,Luvas Cirúrgicas,Hospitalar,125,29.27,0,120,Sudeste
+2023-09-01,P004,Vitamina C,Suplementos,105,21.85,0,193,Sul
+2023-01-13,P002,Álcool Gel 70%,Higiene,70,14.48,1,362,Centro-Oeste
+2023-08-13,P001,Paracetamol 500mg,Medicamentos,66,23.97,0,273,Centro-Oeste
+2023-01-01,P003,Luvas Cirúrgicas,Hospitalar,147,7.47,1,361,Sudeste
+2023-05-17,P001,Paracetamol 500mg,Medicamentos,119,17.13,0,340,Centro-Oeste
+2023-03-29,P003,Luvas Cirúrgicas,Hospitalar,74,20.49,0,471,Sudeste
+2023-08-15,P001,Paracetamol 500mg,Medicamentos,150,22.7,0,421,Centro-Oeste
+2023-05-15,P001,Paracetamol 500mg,Medicamentos,62,29.72,0,252,Centro-Oeste
+2023-03-28,P001,Paracetamol 500mg,Medicamentos,52,29.15,0,335,Centro-Oeste
+2023-09-06,P003,Luvas Cirúrgicas,Hospitalar,96,19.73,0,200,Sudeste
+2023-05-01,P002,Álcool Gel 70%,Higiene,64,22.79,0,395,Centro-Oeste
+2023-05-24,P004,Vitamina C,Suplementos,10,20.47,0,314,Sul
+2023-01-09,P002,Álcool Gel 70%,Higiene,42,13.55,0,297,Centro-Oeste
+2023-01-08,P004,Vitamina C,Suplementos,95,18.93,1,332,Sul
+2023-02-27,P004,Vitamina C,Suplementos,128,7.85,0,258,Sul
+2023-08-29,P004,Vitamina C,Suplementos,61,17.18,0,257,Sul
+2023-02-18,P001,Paracetamol 500mg,Medicamentos,105,11.72,0,288,Centro-Oeste
+2023-03-25,P002,Álcool Gel 70%,Higiene,80,12.23,0,194,Centro-Oeste
+2023-01-01,P004,Vitamina C,Suplementos,85,11.18,0,343,Sul
+2023-02-21,P001,Paracetamol 500mg,Medicamentos,84,12.97,0,383,Centro-Oeste
+2023-05-09,P003,Luvas Cirúrgicas,Hospitalar,132,18.35,1,301,Sudeste
+2023-07-19,P004,Vitamina C,Suplementos,128,16.36,0,270,Sul
+2023-03-18,P003,Luvas Cirúrgicas,Hospitalar,114,11.13,0,320,Sudeste
+2023-01-28,P002,Álcool Gel 70%,Higiene,100,21.48,0,339,Centro-Oeste
+2023-04-18,P003,Luvas Cirúrgicas,Hospitalar,130,13.21,1,347,Sudeste
+2023-01-20,P002,Álcool Gel 70%,Higiene,138,7.33,0,243,Centro-Oeste
+2023-01-22,P001,Paracetamol 500mg,Medicamentos,147,17.54,0,200,Centro-Oeste
+2023-03-13,P003,Luvas Cirúrgicas,Hospitalar,99,21.22,1,207,Sudeste
+2023-01-21,P003,Luvas Cirúrgicas,Hospitalar,70,8.62,0,336,Sudeste
+2023-09-05,P004,Vitamina C,Suplementos,71,10.06,0,430,Sul
+2023-07-17,P002,Álcool Gel 70%,Higiene,117,10.38,0,255,Centro-Oeste
+2023-08-12,P003,Luvas Cirúrgicas,Hospitalar,69,16.46,0,239,Sudeste
+2023-04-10,P003,Luvas Cirúrgicas,Hospitalar,113,18.78,0,245,Sudeste
+2023-03-22,P004,Vitamina C,Suplementos,126,28.73,0,339,Sul
+2023-05-10,P004,Vitamina C,Suplementos,35,9.78,0,242,Sul
+2023-08-18,P001,Paracetamol 500mg,Medicamentos,111,13.8,0,311,Centro-Oeste
+2023-08-19,P003,Luvas Cirúrgicas,Hospitalar,72,12.85,0,408,Sudeste
+2023-01-02,P002,Álcool Gel 70%,Higiene,69,13.72,0,325,Centro-Oeste
+2023-07-02,P004,Vitamina C,Suplementos,60,26.66,1,283,Sul
+2023-04-27,P002,Álcool Gel 70%,Higiene,156,25.35,0,386,Centro-Oeste
+2023-01-25,P002,Álcool Gel 70%,Higiene,99,8.32,0,228,Centro-Oeste
+2023-03-08,P003,Luvas Cirúrgicas,Hospitalar,86,13.92,1,315,Sudeste
+2023-03-31,P002,Álcool Gel 70%,Higiene,101,8.56,1,238,Centro-Oeste
+2023-08-06,P001,Paracetamol 500mg,Medicamentos,123,10.37,1,344,Centro-Oeste
+2023-07-19,P003,Luvas Cirúrgicas,Hospitalar,98,18.11,1,436,Sudeste
+2023-04-06,P001,Paracetamol 500mg,Medicamentos,63,21.25,0,347,Centro-Oeste
+2023-06-07,P004,Vitamina C,Suplementos,80,16.03,1,405,Sul
+2023-04-06,P002,Álcool Gel 70%,Higiene,93,8.34,1,419,Centro-Oeste
+2023-05-03,P003,Luvas Cirúrgicas,Hospitalar,121,13.72,1,265,Sudeste
+2023-01-30,P003,Luvas Cirúrgicas,Hospitalar,96,16.54,0,399,Sudeste
+2023-08-14,P001,Paracetamol 500mg,Medicamentos,121,26.56,0,149,Centro-Oeste
+2023-03-04,P003,Luvas Cirúrgicas,Hospitalar,81,27.44,1,268,Sudeste
+2023-05-11,P004,Vitamina C,Suplementos,128,23.65,0,322,Sul
+2023-01-03,P002,Álcool Gel 70%,Higiene,99,7.79,1,215,Centro-Oeste
+2023-02-19,P001,Paracetamol 500mg,Medicamentos,57,21.81,0,237,Centro-Oeste
+2023-05-31,P004,Vitamina C,Suplementos,120,9.76,0,347,Sul
+2023-01-21,P002,Álcool Gel 70%,Higiene,143,18.57,1,185,Centro-Oeste
+2023-07-15,P004,Vitamina C,Suplementos,93,8.63,0,240,Sul
+2023-05-27,P004,Vitamina C,Suplementos,128,29.22,1,398,Sul
+2023-07-19,P002,Álcool Gel 70%,Higiene,91,11.49,0,367,Centro-Oeste
+2023-03-01,P004,Vitamina C,Suplementos,87,15.16,0,277,Sul
+2023-03-14,P003,Luvas Cirúrgicas,Hospitalar,82,10.85,0,345,Sudeste
+2023-02-22,P004,Vitamina C,Suplementos,83,7.42,1,237,Sul
+2023-06-29,P002,Álcool Gel 70%,Higiene,129,18.84,0,373,Centro-Oeste
+2023-03-31,P004,Vitamina C,Suplementos,40,14.66,0,329,Sul
+2023-04-23,P002,Álcool Gel 70%,Higiene,53,23.81,1,257,Centro-Oeste
+2023-02-26,P004,Vitamina C,Suplementos,125,12.74,0,336,Sul
+2023-08-26,P003,Luvas Cirúrgicas,Hospitalar,143,16.23,0,444,Sudeste
+2023-08-25,P003,Luvas Cirúrgicas,Hospitalar,65,9.65,1,165,Sudeste
+2023-07-19,P001,Paracetamol 500mg,Medicamentos,111,26.32,1,145,Centro-Oeste
+2023-05-06,P002,Álcool Gel 70%,Higiene,18,14.29,0,354,Centro-Oeste
+2023-04-27,P001,Paracetamol 500mg,Medicamentos,103,13.6,1,184,Centro-Oeste
+2023-04-01,P003,Luvas Cirúrgicas,Hospitalar,105,9.22,0,186,Sudeste
+2023-04-28,P001,Paracetamol 500mg,Medicamentos,89,11.24,1,267,Centro-Oeste
+2023-08-22,P004,Vitamina C,Suplementos,105,19.52,0,227,Sul
+2023-04-18,P001,Paracetamol 500mg,Medicamentos,83,21.77,0,504,Centro-Oeste
+2023-01-02,P004,Vitamina C,Suplementos,83,20.97,0,308,Sul
+2023-02-08,P004,Vitamina C,Suplementos,51,9.64,0,303,Sul
+2023-05-16,P002,Álcool Gel 70%,Higiene,120,20.87,1,273,Centro-Oeste
+2023-04-21,P001,Paracetamol 500mg,Medicamentos,115,17.54,0,257,Centro-Oeste
+2023-05-01,P003,Luvas Cirúrgicas,Hospitalar,108,12.23,1,279,Sudeste
+2023-04-16,P003,Luvas Cirúrgicas,Hospitalar,135,19.75,0,251,Sudeste
+2023-07-14,P003,Luvas Cirúrgicas,Hospitalar,97,8.95,0,263,Sudeste
+2023-08-26,P002,Álcool Gel 70%,Higiene,112,10.48,0,310,Centro-Oeste
+2023-03-25,P003,Luvas Cirúrgicas,Hospitalar,149,21.25,0,380,Sudeste
+2023-05-25,P001,Paracetamol 500mg,Medicamentos,106,12.56,1,260,Centro-Oeste
+2023-08-22,P003,Luvas Cirúrgicas,Hospitalar,98,20.47,0,221,Sudeste
+2023-05-22,P004,Vitamina C,Suplementos,95,16.36,0,240,Sul
+2023-05-29,P003,Luvas Cirúrgicas,Hospitalar,120,20.98,0,214,Sudeste
+2023-05-13,P003,Luvas Cirúrgicas,Hospitalar,95,14.33,0,364,Sudeste
+2023-05-26,P002,Álcool Gel 70%,Higiene,90,26.3,0,312,Centro-Oeste
+2023-06-26,P004,Vitamina C,Suplementos,123,25.72,0,327,Sul
+2023-04-23,P001,Paracetamol 500mg,Medicamentos,102,28.55,0,341,Centro-Oeste
+2023-04-24,P002,Álcool Gel 70%,Higiene,69,26.78,1,304,Centro-Oeste
+2023-02-27,P001,Paracetamol 500mg,Medicamentos,112,11.15,0,316,Centro-Oeste
+2023-03-30,P001,Paracetamol 500mg,Medicamentos,101,20.96,0,288,Centro-Oeste
+2023-07-02,P001,Paracetamol 500mg,Medicamentos,178,21.45,0,211,Centro-Oeste
+2023-02-23,P001,Paracetamol 500mg,Medicamentos,105,13.3,0,221,Centro-Oeste
+2023-01-20,P004,Vitamina C,Suplementos,10,10.98,0,218,Sul
+2023-02-07,P001,Paracetamol 500mg,Medicamentos,58,9.34,0,345,Centro-Oeste
+2023-03-17,P003,Luvas Cirúrgicas,Hospitalar,106,17.09,1,383,Sudeste
+2023-06-07,P001,Paracetamol 500mg,Medicamentos,85,16.86,0,321,Centro-Oeste
+2023-07-14,P002,Álcool Gel 70%,Higiene,152,15.16,0,425,Centro-Oeste
+2023-05-07,P003,Luvas Cirúrgicas,Hospitalar,101,21.58,0,435,Sudeste
+2023-03-27,P003,Luvas Cirúrgicas,Hospitalar,70,11.17,0,282,Sudeste
+2023-05-02,P002,Álcool Gel 70%,Higiene,115,27.04,1,314,Centro-Oeste
+2023-06-27,P004,Vitamina C,Suplementos,96,15.15,0,326,Sul
+2023-02-03,P002,Álcool Gel 70%,Higiene,84,11.07,0,236,Centro-Oeste
+2023-06-25,P004,Vitamina C,Suplementos,83,17.21,0,368,Sul
+2023-03-19,P004,Vitamina C,Suplementos,98,12.43,0,338,Sul
+2023-06-30,P003,Luvas Cirúrgicas,Hospitalar,156,23.15,0,331,Sudeste
+2023-06-07,P002,Álcool Gel 70%,Higiene,162,9.73,0,280,Centro-Oeste
+2023-01-01,P001,Paracetamol 500mg,Medicamentos,114,23.84,0,288,Centro-Oeste
+2023-03-21,P001,Paracetamol 500mg,Medicamentos,130,11.73,0,319,Centro-Oeste
+2023-06-26,P003,Luvas Cirúrgicas,Hospitalar,91,8.62,0,277,Sudeste
+2023-05-17,P004,Vitamina C,Suplementos,162,18.24,0,226,Sul
+2023-08-07,P001,Paracetamol 500mg,Medicamentos,97,23.75,0,333,Centro-Oeste
+2023-05-14,P001,Paracetamol 500mg,Medicamentos,67,16.9,0,267,Centro-Oeste
+2023-04-30,P002,Álcool Gel 70%,Higiene,125,9.31,0,343,Centro-Oeste
+2023-04-12,P001,Paracetamol 500mg,Medicamentos,90,21.15,1,279,Centro-Oeste
+2023-02-13,P001,Paracetamol 500mg,Medicamentos,102,24.54,1,261,Centro-Oeste
+2023-02-01,P002,Álcool Gel 70%,Higiene,119,23.19,0,409,Centro-Oeste
+2023-04-09,P003,Luvas Cirúrgicas,Hospitalar,79,22.83,0,383,Sudeste
+2023-04-16,P001,Paracetamol 500mg,Medicamentos,93,25.4,0,231,Centro-Oeste
+2023-05-19,P001,Paracetamol 500mg,Medicamentos,118,28.71,0,270,Centro-Oeste
+2023-08-14,P004,Vitamina C,Suplementos,127,14.46,0,336,Sul
+2023-01-23,P003,Luvas Cirúrgicas,Hospitalar,99,15.56,1,309,Sudeste
+2023-08-23,P004,Vitamina C,Suplementos,59,23.14,0,288,Sul
+2023-02-15,P002,Álcool Gel 70%,Higiene,147,28.49,1,259,Centro-Oeste
+2023-03-10,P003,Luvas Cirúrgicas,Hospitalar,54,29.63,0,244,Sudeste
+2023-08-12,P004,Vitamina C,Suplementos,129,22.48,1,341,Sul
+2023-01-18,P002,Álcool Gel 70%,Higiene,78,21.33,0,354,Centro-Oeste
+2023-03-14,P004,Vitamina C,Suplementos,141,7.73,1,373,Sul
+2023-02-02,P004,Vitamina C,Suplementos,110,11.18,0,224,Sul
+2023-03-17,P001,Paracetamol 500mg,Medicamentos,92,26.97,1,166,Centro-Oeste
+2023-04-17,P001,Paracetamol 500mg,Medicamentos,73,14.03,1,265,Centro-Oeste
+2023-03-23,P003,Luvas Cirúrgicas,Hospitalar,149,9.45,0,208,Sudeste
+2023-02-06,P001,Paracetamol 500mg,Medicamentos,150,25.15,0,370,Centro-Oeste
+2023-04-16,P004,Vitamina C,Suplementos,76,29.04,0,351,Sul
+2023-05-26,P001,Paracetamol 500mg,Medicamentos,75,7.0,0,389,Centro-Oeste
+2023-02-03,P004,Vitamina C,Suplementos,158,7.9,1,302,Sul
+2023-04-23,P003,Luvas Cirúrgicas,Hospitalar,123,11.56,0,199,Sudeste
+2023-02-11,P001,Paracetamol 500mg,Medicamentos,111,22.3,0,266,Centro-Oeste
+2023-01-08,P001,Paracetamol 500mg,Medicamentos,78,12.24,0,273,Centro-Oeste
+2023-07-13,P002,Álcool Gel 70%,Higiene,89,7.44,1,327,Centro-Oeste
+2023-02-18,P002,Álcool Gel 70%,Higiene,99,19.99,0,256,Centro-Oeste
+2023-04-08,P001,Paracetamol 500mg,Medicamentos,82,7.44,0,92,Centro-Oeste
+2023-08-02,P001,Paracetamol 500mg,Medicamentos,54,26.34,0,73,Centro-Oeste
+2023-02-12,P002,Álcool Gel 70%,Higiene,55,10.2,1,391,Centro-Oeste
+2023-06-26,P002,Álcool Gel 70%,Higiene,85,22.07,0,415,Centro-Oeste
+2023-02-05,P001,Paracetamol 500mg,Medicamentos,117,18.77,0,324,Centro-Oeste
+2023-02-13,P002,Álcool Gel 70%,Higiene,131,9.54,1,259,Centro-Oeste
+2023-01-02,P003,Luvas Cirúrgicas,Hospitalar,143,11.59,0,281,Sudeste
+2023-07-06,P002,Álcool Gel 70%,Higiene,150,27.45,0,385,Centro-Oeste
+2023-04-30,P003,Luvas Cirúrgicas,Hospitalar,88,17.36,1,226,Sudeste
+2023-01-19,P002,Álcool Gel 70%,Higiene,115,16.41,0,369,Centro-Oeste
+2023-08-16,P003,Luvas Cirúrgicas,Hospitalar,67,19.61,0,452,Sudeste
+2023-07-23,P002,Álcool Gel 70%,Higiene,17,20.73,1,260,Centro-Oeste
+2023-03-01,P003,Luvas Cirúrgicas,Hospitalar,86,16.69,1,416,Sudeste
+2023-02-06,P002,Álcool Gel 70%,Higiene,102,20.5,1,231,Centro-Oeste
+2023-07-18,P001,Paracetamol 500mg,Medicamentos,110,13.29,0,219,Centro-Oeste
+2023-02-28,P003,Luvas Cirúrgicas,Hospitalar,143,14.33,0,315,Sudeste
+2023-02-25,P001,Paracetamol 500mg,Medicamentos,82,18.42,0,309,Centro-Oeste
+2023-08-19,P004,Vitamina C,Suplementos,135,29.03,0,310,Sul
+2023-05-06,P001,Paracetamol 500mg,Medicamentos,129,27.22,0,340,Centro-Oeste
+2023-02-03,P001,Paracetamol 500mg,Medicamentos,98,22.35,0,376,Centro-Oeste
+2023-09-05,P003,Luvas Cirúrgicas,Hospitalar,115,29.92,0,100,Sudeste
+2023-07-13,P003,Luvas Cirúrgicas,Hospitalar,146,26.28,1,368,Sudeste
+2023-02-16,P002,Álcool Gel 70%,Higiene,69,19.36,1,167,Centro-Oeste
+2023-01-11,P002,Álcool Gel 70%,Higiene,76,28.27,1,274,Centro-Oeste
+2023-06-24,P001,Paracetamol 500mg,Medicamentos,114,28.45,0,337,Centro-Oeste
+2023-01-28,P001,Paracetamol 500mg,Medicamentos,106,8.7,0,301,Centro-Oeste
+2023-05-28,P001,Paracetamol 500mg,Medicamentos,102,13.86,0,315,Centro-Oeste
+2023-01-15,P001,Paracetamol 500mg,Medicamentos,93,7.36,1,357,Centro-Oeste
+2023-04-12,P002,Álcool Gel 70%,Higiene,113,7.96,1,473,Centro-Oeste
+2023-04-21,P003,Luvas Cirúrgicas,Hospitalar,81,21.04,0,337,Sudeste
+2023-07-09,P002,Álcool Gel 70%,Higiene,120,27.43,0,275,Centro-Oeste
+2023-09-07,P002,Álcool Gel 70%,Higiene,141,23.91,0,325,Centro-Oeste
+2023-01-07,P001,Paracetamol 500mg,Medicamentos,93,16.44,1,328,Centro-Oeste
+2023-04-27,P004,Vitamina C,Suplementos,80,26.72,1,382,Sul
+2023-05-15,P004,Vitamina C,Suplementos,97,10.68,0,270,Sul
+2023-05-13,P004,Vitamina C,Suplementos,139,23.23,0,167,Sul
+2023-06-04,P003,Luvas Cirúrgicas,Hospitalar,33,8.01,0,422,Sudeste
+2023-06-23,P003,Luvas Cirúrgicas,Hospitalar,97,23.85,0,242,Sudeste
+2023-08-20,P003,Luvas Cirúrgicas,Hospitalar,81,11.07,1,276,Sudeste
+2023-03-26,P003,Luvas Cirúrgicas,Hospitalar,122,12.6,1,322,Sudeste
+2023-01-13,P004,Vitamina C,Suplementos,92,13.1,0,239,Sul
+2023-05-07,P004,Vitamina C,Suplementos,77,17.87,0,194,Sul
+2023-05-10,P001,Paracetamol 500mg,Medicamentos,108,20.98,0,340,Centro-Oeste
+2023-08-19,P001,Paracetamol 500mg,Medicamentos,106,9.38,0,351,Centro-Oeste
+2023-07-15,P002,Álcool Gel 70%,Higiene,107,29.39,0,365,Centro-Oeste
+2023-03-08,P001,Paracetamol 500mg,Medicamentos,107,29.15,0,426,Centro-Oeste
+2023-07-24,P002,Álcool Gel 70%,Higiene,37,26.3,0,437,Centro-Oeste
+2023-06-27,P003,Luvas Cirúrgicas,Hospitalar,114,14.08,1,343,Sudeste
+2023-06-20,P003,Luvas Cirúrgicas,Hospitalar,61,7.35,1,366,Sudeste
+2023-07-28,P001,Paracetamol 500mg,Medicamentos,109,10.46,1,208,Centro-Oeste
+2023-05-10,P003,Luvas Cirúrgicas,Hospitalar,148,9.63,0,371,Sudeste
+2023-04-22,P004,Vitamina C,Suplementos,27,14.99,1,370,Sul
+2023-01-05,P003,Luvas Cirúrgicas,Hospitalar,74,26.85,0,275,Sudeste
+2023-06-28,P004,Vitamina C,Suplementos,114,11.12,0,225,Sul
+2023-05-01,P004,Vitamina C,Suplementos,126,22.97,0,192,Sul
+2023-05-23,P001,Paracetamol 500mg,Medicamentos,76,25.59,1,275,Centro-Oeste
+2023-04-19,P002,Álcool Gel 70%,Higiene,65,14.55,0,284,Centro-Oeste
+2023-04-02,P004,Vitamina C,Suplementos,121,7.83,0,376,Sul
+2023-01-21,P004,Vitamina C,Suplementos,102,28.63,0,269,Sul
+2023-01-16,P002,Álcool Gel 70%,Higiene,101,27.18,1,208,Centro-Oeste
+2023-06-09,P003,Luvas Cirúrgicas,Hospitalar,94,24.95,0,373,Sudeste
+2023-03-10,P001,Paracetamol 500mg,Medicamentos,61,28.87,0,369,Centro-Oeste
+2023-03-13,P002,Álcool Gel 70%,Higiene,70,12.57,1,296,Centro-Oeste
+2023-04-01,P001,Paracetamol 500mg,Medicamentos,150,17.7,0,333,Centro-Oeste
+2023-03-30,P003,Luvas Cirúrgicas,Hospitalar,75,16.85,1,431,Sudeste
+2023-04-25,P001,Paracetamol 500mg,Medicamentos,113,17.63,0,372,Centro-Oeste
+2023-03-11,P003,Luvas Cirúrgicas,Hospitalar,119,10.02,0,406,Sudeste
+2023-01-04,P001,Paracetamol 500mg,Medicamentos,122,9.04,0,313,Centro-Oeste
+2023-02-15,P003,Luvas Cirúrgicas,Hospitalar,70,29.65,1,289,Sudeste
+2023-04-03,P001,Paracetamol 500mg,Medicamentos,76,9.02,1,193,Centro-Oeste
+2023-08-09,P002,Álcool Gel 70%,Higiene,42,7.66,0,405,Centro-Oeste
+2023-06-03,P004,Vitamina C,Suplementos,74,10.09,1,467,Sul
+2023-02-25,P004,Vitamina C,Suplementos,121,25.39,0,255,Sul
+2023-05-24,P001,Paracetamol 500mg,Medicamentos,124,14.39,0,284,Centro-Oeste
+2023-08-31,P003,Luvas Cirúrgicas,Hospitalar,96,10.76,0,235,Sudeste
+2023-06-13,P002,Álcool Gel 70%,Higiene,119,13.82,1,179,Centro-Oeste
+2023-05-17,P002,Álcool Gel 70%,Higiene,76,8.33,0,250,Centro-Oeste
+2023-05-26,P003,Luvas Cirúrgicas,Hospitalar,124,14.27,0,230,Sudeste
+2023-06-08,P002,Álcool Gel 70%,Higiene,40,22.1,0,371,Centro-Oeste
+2023-02-14,P001,Paracetamol 500mg,Medicamentos,112,12.79,0,450,Centro-Oeste
+2023-06-16,P002,Álcool Gel 70%,Higiene,35,10.03,1,387,Centro-Oeste
+2023-06-18,P002,Álcool Gel 70%,Higiene,95,28.72,0,256,Centro-Oeste
+2023-05-27,P002,Álcool Gel 70%,Higiene,111,9.05,0,291,Centro-Oeste
+2023-08-07,P002,Álcool Gel 70%,Higiene,131,28.78,0,346,Centro-Oeste
+2023-04-09,P002,Álcool Gel 70%,Higiene,58,17.57,1,170,Centro-Oeste
+2023-02-10,P004,Vitamina C,Suplementos,110,11.64,0,267,Sul
+2023-03-04,P001,Paracetamol 500mg,Medicamentos,83,12.15,0,350,Centro-Oeste
+2023-06-08,P003,Luvas Cirúrgicas,Hospitalar,100,12.08,0,223,Sudeste
+2023-08-10,P002,Álcool Gel 70%,Higiene,97,26.14,1,251,Centro-Oeste
+2023-06-17,P002,Álcool Gel 70%,Higiene,88,19.62,0,311,Centro-Oeste
+2023-04-04,P004,Vitamina C,Suplementos,99,20.94,1,365,Sul
+2023-04-14,P001,Paracetamol 500mg,Medicamentos,94,24.37,0,322,Centro-Oeste
+2023-01-19,P003,Luvas Cirúrgicas,Hospitalar,85,19.63,1,247,Sudeste
+2023-01-29,P002,Álcool Gel 70%,Higiene,110,14.12,1,450,Centro-Oeste
+2023-05-30,P003,Luvas Cirúrgicas,Hospitalar,101,13.15,1,219,Sudeste
+2023-08-29,P002,Álcool Gel 70%,Higiene,79,17.12,0,267,Centro-Oeste
+2023-04-08,P003,Luvas Cirúrgicas,Hospitalar,99,9.52,0,346,Sudeste
+2023-01-27,P001,Paracetamol 500mg,Medicamentos,125,9.56,0,287,Centro-Oeste
+2023-01-29,P003,Luvas Cirúrgicas,Hospitalar,73,27.95,1,339,Sudeste
+2023-04-15,P002,Álcool Gel 70%,Higiene,107,13.84,0,508,Centro-Oeste
+2023-05-12,P002,Álcool Gel 70%,Higiene,96,20.28,0,149,Centro-Oeste
+2023-04-25,P002,Álcool Gel 70%,Higiene,118,8.43,0,464,Centro-Oeste
+2023-04-13,P002,Álcool Gel 70%,Higiene,68,17.11,0,142,Centro-Oeste
+2023-01-24,P001,Paracetamol 500mg,Medicamentos,124,9.37,1,365,Centro-Oeste
+2023-08-21,P003,Luvas Cirúrgicas,Hospitalar,110,9.95,0,224,Sudeste
+2023-01-23,P002,Álcool Gel 70%,Higiene,75,24.26,1,255,Centro-Oeste
+2023-03-26,P001,Paracetamol 500mg,Medicamentos,58,20.34,0,168,Centro-Oeste
+2023-09-05,P001,Paracetamol 500mg,Medicamentos,113,26.93,0,338,Centro-Oeste
+2023-08-19,P002,Álcool Gel 70%,Higiene,126,9.72,0,357,Centro-Oeste
+2023-08-22,P002,Álcool Gel 70%,Higiene,162,26.55,0,218,Centro-Oeste
+2023-06-01,P002,Álcool Gel 70%,Higiene,104,26.48,0,304,Centro-Oeste
+2023-05-29,P002,Álcool Gel 70%,Higiene,118,17.86,1,208,Centro-Oeste
+2023-06-02,P004,Vitamina C,Suplementos,138,20.3,0,344,Sul
+2023-01-24,P003,Luvas Cirúrgicas,Hospitalar,109,28.86,0,289,Sudeste
+2023-01-03,P004,Vitamina C,Suplementos,60,29.3,1,315,Sul
+2023-04-10,P001,Paracetamol 500mg,Medicamentos,164,22.17,1,251,Centro-Oeste
+2023-05-14,P002,Álcool Gel 70%,Higiene,90,10.55,0,362,Centro-Oeste
+2023-01-11,P004,Vitamina C,Suplementos,51,9.14,1,314,Sul
+2023-01-11,P003,Luvas Cirúrgicas,Hospitalar,124,25.8,0,201,Sudeste
+2023-03-24,P002,Álcool Gel 70%,Higiene,135,25.58,1,201,Centro-Oeste
+2023-02-11,P004,Vitamina C,Suplementos,100,12.34,1,434,Sul
+2023-05-05,P002,Álcool Gel 70%,Higiene,96,25.28,0,286,Centro-Oeste
+2023-08-08,P001,Paracetamol 500mg,Medicamentos,61,14.07,0,345,Centro-Oeste
+2023-05-30,P002,Álcool Gel 70%,Higiene,90,15.46,0,348,Centro-Oeste
+2023-07-09,P001,Paracetamol 500mg,Medicamentos,110,7.9,0,174,Centro-Oeste
+2023-01-26,P001,Paracetamol 500mg,Medicamentos,107,8.67,1,259,Centro-Oeste
+2023-04-17,P003,Luvas Cirúrgicas,Hospitalar,57,23.0,0,159,Sudeste
+2023-02-14,P003,Luvas Cirúrgicas,Hospitalar,108,18.64,0,209,Sudeste
+2023-04-22,P001,Paracetamol 500mg,Medicamentos,96,13.02,0,283,Centro-Oeste
+2023-04-15,P001,Paracetamol 500mg,Medicamentos,137,23.85,0,301,Centro-Oeste
+2023-08-06,P003,Luvas Cirúrgicas,Hospitalar,94,26.42,0,324,Sudeste
+2023-08-09,P003,Luvas Cirúrgicas,Hospitalar,97,20.53,0,296,Sudeste
+2023-06-20,P001,Paracetamol 500mg,Medicamentos,106,20.88,0,305,Centro-Oeste
+2023-02-14,P002,Álcool Gel 70%,Higiene,46,17.63,1,419,Centro-Oeste
+2023-04-09,P004,Vitamina C,Suplementos,120,7.88,1,260,Sul
+2023-08-16,P004,Vitamina C,Suplementos,130,29.2,0,199,Sul
+2023-07-18,P002,Álcool Gel 70%,Higiene,97,14.05,1,233,Centro-Oeste
+2023-08-29,P001,Paracetamol 500mg,Medicamentos,93,25.62,1,463,Centro-Oeste
+2023-06-21,P001,Paracetamol 500mg,Medicamentos,66,20.75,1,226,Centro-Oeste
+2023-04-06,P004,Vitamina C,Suplementos,81,22.92,0,275,Sul
+2023-08-28,P001,Paracetamol 500mg,Medicamentos,115,26.05,0,419,Centro-Oeste
+2023-07-07,P004,Vitamina C,Suplementos,105,14.46,0,344,Sul
+2023-03-06,P002,Álcool Gel 70%,Higiene,117,26.56,1,388,Centro-Oeste
+2023-05-15,P003,Luvas Cirúrgicas,Hospitalar,116,15.84,0,300,Sudeste
+2023-03-25,P004,Vitamina C,Suplementos,129,18.94,0,274,Sul
+2023-01-04,P004,Vitamina C,Suplementos,109,8.71,1,269,Sul
+2023-03-23,P001,Paracetamol 500mg,Medicamentos,172,26.98,0,295,Centro-Oeste
+2023-07-09,P003,Luvas Cirúrgicas,Hospitalar,110,12.73,0,325,Sudeste
+2023-02-25,P003,Luvas Cirúrgicas,Hospitalar,98,22.83,0,441,Sudeste
+2023-02-14,P004,Vitamina C,Suplementos,103,23.02,1,358,Sul
+2023-09-03,P004,Vitamina C,Suplementos,115,17.93,1,454,Sul
+2023-01-06,P003,Luvas Cirúrgicas,Hospitalar,98,19.02,0,425,Sudeste
+2023-03-31,P001,Paracetamol 500mg,Medicamentos,82,12.21,0,218,Centro-Oeste
+2023-06-16,P003,Luvas Cirúrgicas,Hospitalar,85,13.67,1,230,Sudeste
+2023-08-04,P002,Álcool Gel 70%,Higiene,58,9.44,0,243,Centro-Oeste
+2023-03-27,P001,Paracetamol 500mg,Medicamentos,70,25.47,0,211,Centro-Oeste
+2023-04-18,P004,Vitamina C,Suplementos,75,8.35,0,299,Sul
+2023-05-18,P004,Vitamina C,Suplementos,109,9.87,1,268,Sul
+2023-07-28,P002,Álcool Gel 70%,Higiene,102,12.67,0,60,Centro-Oeste
+2023-02-20,P004,Vitamina C,Suplementos,109,16.69,1,199,Sul
+2023-06-07,P003,Luvas Cirúrgicas,Hospitalar,122,29.84,0,285,Sudeste
+2023-01-24,P002,Álcool Gel 70%,Higiene,139,14.36,1,301,Centro-Oeste
+2023-05-20,P003,Luvas Cirúrgicas,Hospitalar,94,26.64,0,287,Sudeste
+2023-01-18,P001,Paracetamol 500mg,Medicamentos,85,9.92,0,387,Centro-Oeste
+2023-06-05,P003,Luvas Cirúrgicas,Hospitalar,105,29.57,0,247,Sudeste
+2023-03-13,P001,Paracetamol 500mg,Medicamentos,123,24.94,0,334,Centro-Oeste
+2023-07-31,P001,Paracetamol 500mg,Medicamentos,145,7.75,0,348,Centro-Oeste
+2023-04-19,P003,Luvas Cirúrgicas,Hospitalar,97,20.76,1,290,Sudeste
+2023-02-08,P002,Álcool Gel 70%,Higiene,102,20.15,0,360,Centro-Oeste
+2023-01-19,P004,Vitamina C,Suplementos,62,28.96,1,373,Sul
+2023-07-02,P003,Luvas Cirúrgicas,Hospitalar,98,14.67,1,397,Sudeste
+2023-04-22,P003,Luvas Cirúrgicas,Hospitalar,144,8.5,0,278,Sudeste
+2023-02-17,P001,Paracetamol 500mg,Medicamentos,19,28.04,0,295,Centro-Oeste
+2023-03-09,P004,Vitamina C,Suplementos,69,8.89,0,356,Sul
+2023-03-01,P001,Paracetamol 500mg,Medicamentos,102,28.6,1,385,Centro-Oeste
+2023-05-02,P004,Vitamina C,Suplementos,120,9.55,0,451,Sul
+2023-01-30,P002,Álcool Gel 70%,Higiene,48,29.31,1,408,Centro-Oeste
+2023-08-24,P004,Vitamina C,Suplementos,84,20.44,1,272,Sul
+2023-05-09,P001,Paracetamol 500mg,Medicamentos,43,28.43,0,309,Centro-Oeste
+2023-07-26,P002,Álcool Gel 70%,Higiene,96,21.06,0,317,Centro-Oeste
+2023-05-28,P004,Vitamina C,Suplementos,83,15.51,0,202,Sul
+2023-02-01,P003,Luvas Cirúrgicas,Hospitalar,131,16.02,0,159,Sudeste
+2023-01-30,P001,Paracetamol 500mg,Medicamentos,135,29.71,0,262,Centro-Oeste
+2023-04-29,P002,Álcool Gel 70%,Higiene,105,11.31,1,271,Centro-Oeste
+2023-06-23,P002,Álcool Gel 70%,Higiene,76,13.23,0,244,Centro-Oeste
+2023-01-15,P002,Álcool Gel 70%,Higiene,114,29.16,1,294,Centro-Oeste
+2023-08-04,P004,Vitamina C,Suplementos,63,10.61,1,268,Sul
+2023-08-17,P001,Paracetamol 500mg,Medicamentos,105,19.97,0,375,Centro-Oeste
+2023-04-03,P002,Álcool Gel 70%,Higiene,44,16.13,0,340,Centro-Oeste
+2023-03-09,P001,Paracetamol 500mg,Medicamentos,83,24.44,0,330,Centro-Oeste
+2023-01-12,P003,Luvas Cirúrgicas,Hospitalar,79,10.72,1,318,Sudeste
+2023-03-29,P002,Álcool Gel 70%,Higiene,91,22.35,0,399,Centro-Oeste
+2023-02-18,P004,Vitamina C,Suplementos,137,10.57,0,134,Sul
+2023-09-07,P004,Vitamina C,Suplementos,110,13.63,0,500,Sul
+2023-07-28,P003,Luvas Cirúrgicas,Hospitalar,136,24.34,0,362,Sudeste
+2023-07-04,P001,Paracetamol 500mg,Medicamentos,43,12.06,0,349,Centro-Oeste
+2023-03-07,P004,Vitamina C,Suplementos,119,24.94,0,473,Sul
+2023-04-21,P004,Vitamina C,Suplementos,122,29.0,0,398,Sul
+2023-06-18,P004,Vitamina C,Suplementos,87,13.39,0,320,Sul
+2023-03-18,P001,Paracetamol 500mg,Medicamentos,119,27.98,0,173,Centro-Oeste
+2023-03-27,P002,Álcool Gel 70%,Higiene,127,23.47,0,174,Centro-Oeste
+2023-08-30,P003,Luvas Cirúrgicas,Hospitalar,113,16.53,1,407,Sudeste
+2023-02-07,P002,Álcool Gel 70%,Higiene,80,11.29,0,261,Centro-Oeste
+2023-02-01,P001,Paracetamol 500mg,Medicamentos,161,27.16,0,440,Centro-Oeste
+2023-07-16,P003,Luvas Cirúrgicas,Hospitalar,98,13.4,1,338,Sudeste
+2023-01-13,P003,Luvas Cirúrgicas,Hospitalar,128,22.13,0,333,Sudeste
+2023-03-30,P002,Álcool Gel 70%,Higiene,83,20.67,0,190,Centro-Oeste
+2023-08-20,P004,Vitamina C,Suplementos,142,27.09,1,100,Sul
+2023-02-05,P003,Luvas Cirúrgicas,Hospitalar,77,7.46,0,186,Sudeste
+2023-04-28,P003,Luvas Cirúrgicas,Hospitalar,100,29.24,0,412,Sudeste
+2023-04-10,P004,Vitamina C,Suplementos,89,8.64,0,314,Sul
+2023-06-06,P002,Álcool Gel 70%,Higiene,71,20.0,1,337,Centro-Oeste
+2023-03-22,P001,Paracetamol 500mg,Medicamentos,162,10.21,0,288,Centro-Oeste
+2023-01-05,P004,Vitamina C,Suplementos,85,14.15,0,285,Sul
+2023-07-22,P002,Álcool Gel 70%,Higiene,116,24.26,0,398,Centro-Oeste
+2023-07-17,P003,Luvas Cirúrgicas,Hospitalar,99,13.96,0,232,Sudeste
+2023-07-22,P001,Paracetamol 500mg,Medicamentos,112,12.74,0,275,Centro-Oeste
+2023-04-12,P004,Vitamina C,Suplementos,145,25.67,0,340,Sul
+2023-05-15,P002,Álcool Gel 70%,Higiene,75,18.17,0,333,Centro-Oeste
+2023-06-05,P001,Paracetamol 500mg,Medicamentos,87,29.09,0,347,Centro-Oeste
+2023-01-10,P003,Luvas Cirúrgicas,Hospitalar,70,7.94,0,254,Sudeste
+2023-02-13,P004,Vitamina C,Suplementos,122,23.56,0,226,Sul
+2023-03-03,P002,Álcool Gel 70%,Higiene,80,12.07,0,257,Centro-Oeste
+2023-07-27,P001,Paracetamol 500mg,Medicamentos,126,29.77,0,417,Centro-Oeste
+2023-06-16,P004,Vitamina C,Suplementos,131,12.76,0,349,Sul
+2023-07-08,P003,Luvas Cirúrgicas,Hospitalar,79,9.03,0,346,Sudeste
+2023-08-03,P003,Luvas Cirúrgicas,Hospitalar,71,21.09,1,283,Sudeste
+2023-02-08,P003,Luvas Cirúrgicas,Hospitalar,80,14.44,0,345,Sudeste
+2023-03-13,P004,Vitamina C,Suplementos,93,14.51,0,302,Sul
+2023-05-31,P003,Luvas Cirúrgicas,Hospitalar,121,18.99,1,357,Sudeste
+2023-05-23,P002,Álcool Gel 70%,Higiene,43,8.77,0,317,Centro-Oeste
+2023-07-05,P004,Vitamina C,Suplementos,142,10.91,0,355,Sul
+2023-01-05,P002,Álcool Gel 70%,Higiene,130,24.74,0,374,Centro-Oeste
+2023-02-01,P004,Vitamina C,Suplementos,91,18.82,1,357,Sul
+2023-03-22,P003,Luvas Cirúrgicas,Hospitalar,81,26.97,0,453,Sudeste
+2023-03-05,P004,Vitamina C,Suplementos,175,25.97,0,257,Sul
+2023-06-14,P002,Álcool Gel 70%,Higiene,119,13.3,1,333,Centro-Oeste
+2023-08-30,P001,Paracetamol 500mg,Medicamentos,112,20.52,0,333,Centro-Oeste
+2023-02-17,P003,Luvas Cirúrgicas,Hospitalar,91,8.96,1,211,Sudeste
+2023-01-29,P004,Vitamina C,Suplementos,60,28.45,1,446,Sul
+2023-06-04,P001,Paracetamol 500mg,Medicamentos,51,18.51,0,314,Centro-Oeste
+2023-06-01,P003,Luvas Cirúrgicas,Hospitalar,105,24.95,0,319,Sudeste
+2023-02-15,P001,Paracetamol 500mg,Medicamentos,76,20.25,0,337,Centro-Oeste
+2023-03-17,P002,Álcool Gel 70%,Higiene,85,14.96,0,425,Centro-Oeste
+2023-07-09,P004,Vitamina C,Suplementos,122,26.73,1,348,Sul
+2023-06-28,P001,Paracetamol 500mg,Medicamentos,93,19.73,0,231,Centro-Oeste
+2023-06-30,P004,Vitamina C,Suplementos,20,27.02,0,300,Sul
+2023-06-21,P002,Álcool Gel 70%,Higiene,116,11.66,0,327,Centro-Oeste
+2023-09-02,P004,Vitamina C,Suplementos,134,16.45,0,410,Sul
+2023-05-10,P002,Álcool Gel 70%,Higiene,85,12.92,0,311,Centro-Oeste
+2023-09-04,P001,Paracetamol 500mg,Medicamentos,94,15.05,1,271,Centro-Oeste
+2023-01-12,P002,Álcool Gel 70%,Higiene,115,27.4,1,323,Centro-Oeste
+2023-08-16,P002,Álcool Gel 70%,Higiene,87,7.31,0,137,Centro-Oeste
+2023-02-09,P002,Álcool Gel 70%,Higiene,80,14.74,0,303,Centro-Oeste
+2023-08-01,P004,Vitamina C,Suplementos,82,11.81,0,383,Sul
+2023-02-12,P004,Vitamina C,Suplementos,86,12.72,1,232,Sul
+2023-01-05,P001,Paracetamol 500mg,Medicamentos,79,7.13,1,348,Centro-Oeste
+2023-05-08,P004,Vitamina C,Suplementos,90,25.46,0,239,Sul
+2023-01-13,P001,Paracetamol 500mg,Medicamentos,155,22.0,0,337,Centro-Oeste
+2023-08-31,P004,Vitamina C,Suplementos,85,8.18,0,199,Sul
+2023-08-24,P001,Paracetamol 500mg,Medicamentos,121,7.48,0,280,Centro-Oeste
+2023-05-09,P004,Vitamina C,Suplementos,78,16.7,0,178,Sul
+2023-08-27,P001,Paracetamol 500mg,Medicamentos,164,27.05,0,395,Centro-Oeste
+2023-05-01,P001,Paracetamol 500mg,Medicamentos,112,21.59,0,298,Centro-Oeste
+2023-03-12,P004,Vitamina C,Suplementos,86,20.8,0,106,Sul
+2023-06-29,P003,Luvas Cirúrgicas,Hospitalar,78,9.42,0,199,Sudeste
+2023-08-08,P002,Álcool Gel 70%,Higiene,65,10.93,0,277,Centro-Oeste
+2023-02-26,P002,Álcool Gel 70%,Higiene,97,11.26,0,349,Centro-Oeste
+2023-01-07,P003,Luvas Cirúrgicas,Hospitalar,127,25.48,0,326,Sudeste
+2023-08-27,P003,Luvas Cirúrgicas,Hospitalar,125,16.12,0,311,Sudeste
+2023-04-20,P002,Álcool Gel 70%,Higiene,156,11.24,0,423,Centro-Oeste
+2023-08-26,P004,Vitamina C,Suplementos,91,10.74,1,222,Sul
+2023-04-02,P001,Paracetamol 500mg,Medicamentos,67,29.83,1,274,Centro-Oeste
+2023-02-27,P002,Álcool Gel 70%,Higiene,67,28.26,1,384,Centro-Oeste
+2023-01-10,P002,Álcool Gel 70%,Higiene,142,21.57,0,187,Centro-Oeste
+2023-08-30,P002,Álcool Gel 70%,Higiene,107,26.0,0,410,Centro-Oeste
+2023-04-04,P003,Luvas Cirúrgicas,Hospitalar,100,21.74,1,299,Sudeste
+2023-04-28,P002,Álcool Gel 70%,Higiene,71,17.13,0,333,Centro-Oeste
+2023-08-30,P004,Vitamina C,Suplementos,168,12.07,0,371,Sul
+2023-08-01,P003,Luvas Cirúrgicas,Hospitalar,97,15.07,0,406,Sudeste
+2023-06-26,P001,Paracetamol 500mg,Medicamentos,100,8.29,0,146,Centro-Oeste
+2023-07-30,P002,Álcool Gel 70%,Higiene,116,25.88,0,315,Centro-Oeste
+2023-02-18,P003,Luvas Cirúrgicas,Hospitalar,92,19.06,0,420,Sudeste
+2023-08-02,P003,Luvas Cirúrgicas,Hospitalar,43,28.45,0,268,Sudeste
+2023-08-05,P001,Paracetamol 500mg,Medicamentos,97,10.87,1,257,Centro-Oeste
+2023-05-06,P004,Vitamina C,Suplementos,148,20.61,1,405,Sul
+2023-08-31,P002,Álcool Gel 70%,Higiene,104,12.22,0,427,Centro-Oeste
+2023-07-27,P003,Luvas Cirúrgicas,Hospitalar,129,28.52,0,262,Sudeste
+2023-05-25,P004,Vitamina C,Suplementos,79,21.48,0,267,Sul
+2023-08-31,P001,Paracetamol 500mg,Medicamentos,61,8.37,0,323,Centro-Oeste
+2023-02-10,P003,Luvas Cirúrgicas,Hospitalar,102,20.21,1,287,Sudeste
+2023-08-16,P001,Paracetamol 500mg,Medicamentos,74,18.01,1,399,Centro-Oeste
+2023-02-08,P001,Paracetamol 500mg,Medicamentos,82,10.93,0,360,Centro-Oeste
+2023-07-20,P002,Álcool Gel 70%,Higiene,157,18.26,0,430,Centro-Oeste
+2023-09-06,P002,Álcool Gel 70%,Higiene,45,20.66,0,215,Centro-Oeste
+2023-07-08,P004,Vitamina C,Suplementos,69,7.72,0,142,Sul
+2023-01-28,P004,Vitamina C,Suplementos,165,13.38,0,235,Sul
+2023-02-26,P003,Luvas Cirúrgicas,Hospitalar,111,25.55,0,348,Sudeste
+2023-06-22,P001,Paracetamol 500mg,Medicamentos,133,11.34,0,273,Centro-Oeste
+2023-01-26,P004,Vitamina C,Suplementos,78,24.87,0,282,Sul
+2023-04-16,P002,Álcool Gel 70%,Higiene,150,21.17,0,331,Centro-Oeste
+2023-04-15,P004,Vitamina C,Suplementos,95,7.21,0,202,Sul
+2023-07-07,P003,Luvas Cirúrgicas,Hospitalar,80,22.92,0,368,Sudeste
+2023-05-27,P003,Luvas Cirúrgicas,Hospitalar,26,21.55,1,289,Sudeste
+2023-07-15,P001,Paracetamol 500mg,Medicamentos,118,13.59,1,235,Centro-Oeste
+2023-06-18,P001,Paracetamol 500mg,Medicamentos,83,22.77,0,163,Centro-Oeste
+2023-01-30,P004,Vitamina C,Suplementos,100,24.69,1,303,Sul
+2023-01-14,P002,Álcool Gel 70%,Higiene,100,20.27,0,416,Centro-Oeste
+2023-02-07,P004,Vitamina C,Suplementos,92,29.3,1,227,Sul
+2023-04-11,P004,Vitamina C,Suplementos,129,21.37,0,239,Sul
+2023-08-25,P002,Álcool Gel 70%,Higiene,113,29.95,0,221,Centro-Oeste
+2023-02-21,P004,Vitamina C,Suplementos,83,26.97,0,331,Sul
+2023-06-14,P003,Luvas Cirúrgicas,Hospitalar,83,14.72,1,211,Sudeste
+2023-07-30,P004,Vitamina C,Suplementos,96,20.27,0,307,Sul
+2023-07-10,P003,Luvas Cirúrgicas,Hospitalar,118,24.53,0,406,Sudeste
+2023-01-03,P001,Paracetamol 500mg,Medicamentos,81,22.74,0,276,Centro-Oeste
+2023-07-21,P004,Vitamina C,Suplementos,84,22.47,0,338,Sul
+2023-01-10,P001,Paracetamol 500mg,Medicamentos,134,12.47,1,360,Centro-Oeste
+2023-04-24,P001,Paracetamol 500mg,Medicamentos,77,26.56,0,235,Centro-Oeste
+2023-06-12,P004,Vitamina C,Suplementos,102,23.31,0,235,Sul
+2023-03-05,P002,Álcool Gel 70%,Higiene,99,8.86,0,443,Centro-Oeste
+2023-03-17,P004,Vitamina C,Suplementos,132,27.72,0,296,Sul
+2023-07-06,P003,Luvas Cirúrgicas,Hospitalar,69,17.9,1,331,Sudeste
+2023-05-23,P004,Vitamina C,Suplementos,51,12.34,0,238,Sul
+2023-06-05,P004,Vitamina C,Suplementos,112,24.42,0,301,Sul
+2023-07-03,P001,Paracetamol 500mg,Medicamentos,75,15.92,1,294,Centro-Oeste
+2023-08-11,P004,Vitamina C,Suplementos,65,22.63,0,159,Sul
+2023-03-07,P003,Luvas Cirúrgicas,Hospitalar,105,21.53,0,303,Sudeste
+2023-06-02,P003,Luvas Cirúrgicas,Hospitalar,62,11.5,0,250,Sudeste
+2023-03-16,P002,Álcool Gel 70%,Higiene,115,22.15,0,254,Centro-Oeste
+2023-04-14,P003,Luvas Cirúrgicas,Hospitalar,105,29.65,1,196,Sudeste
+2023-02-07,P003,Luvas Cirúrgicas,Hospitalar,101,16.44,1,233,Sudeste
+2023-07-17,P001,Paracetamol 500mg,Medicamentos,76,22.5,0,196,Centro-Oeste
+2023-06-10,P001,Paracetamol 500mg,Medicamentos,126,11.76,0,266,Centro-Oeste
+2023-08-11,P002,Álcool Gel 70%,Higiene,62,20.16,1,308,Centro-Oeste
+2023-05-18,P003,Luvas Cirúrgicas,Hospitalar,107,19.27,1,337,Sudeste
+2023-08-10,P003,Luvas Cirúrgicas,Hospitalar,78,25.8,1,243,Sudeste
+2023-05-03,P001,Paracetamol 500mg,Medicamentos,133,19.57,0,290,Centro-Oeste
+2023-02-06,P004,Vitamina C,Suplementos,127,15.19,1,452,Sul
+2023-02-06,P003,Luvas Cirúrgicas,Hospitalar,68,13.53,0,284,Sudeste
+2023-06-30,P001,Paracetamol 500mg,Medicamentos,58,12.05,1,254,Centro-Oeste
+2023-08-21,P004,Vitamina C,Suplementos,133,24.33,1,384,Sul
+2023-07-04,P004,Vitamina C,Suplementos,119,18.13,0,208,Sul
+2023-06-14,P004,Vitamina C,Suplementos,113,23.72,0,362,Sul
+2023-03-29,P001,Paracetamol 500mg,Medicamentos,62,24.95,0,244,Centro-Oeste
+2023-04-26,P004,Vitamina C,Suplementos,108,25.91,0,239,Sul
+2023-03-23,P002,Álcool Gel 70%,Higiene,133,11.96,0,394,Centro-Oeste
+2023-02-16,P003,Luvas Cirúrgicas,Hospitalar,61,23.96,0,196,Sudeste
+2023-01-31,P004,Vitamina C,Suplementos,146,18.96,1,309,Sul
+2023-08-02,P002,Álcool Gel 70%,Higiene,136,25.94,0,262,Centro-Oeste
+2023-06-02,P001,Paracetamol 500mg,Medicamentos,96,24.19,0,168,Centro-Oeste
+2023-02-05,P004,Vitamina C,Suplementos,80,9.75,1,213,Sul
+2023-08-28,P003,Luvas Cirúrgicas,Hospitalar,105,9.86,1,292,Sudeste
+2023-02-19,P002,Álcool Gel 70%,Higiene,128,7.62,0,401,Centro-Oeste
+2023-06-02,P002,Álcool Gel 70%,Higiene,100,29.14,0,318,Centro-Oeste
+2023-03-11,P004,Vitamina C,Suplementos,105,25.32,0,356,Sul
+2023-03-15,P002,Álcool Gel 70%,Higiene,126,14.81,1,350,Centro-Oeste
+2023-04-11,P001,Paracetamol 500mg,Medicamentos,59,15.04,1,222,Centro-Oeste
+2023-01-31,P003,Luvas Cirúrgicas,Hospitalar,53,9.61,0,402,Sudeste
+2023-02-15,P004,Vitamina C,Suplementos,101,20.6,0,387,Sul
+2023-02-20,P003,Luvas Cirúrgicas,Hospitalar,117,7.3,0,275,Sudeste
+2023-04-20,P003,Luvas Cirúrgicas,Hospitalar,104,13.87,1,158,Sudeste
+2023-03-03,P003,Luvas Cirúrgicas,Hospitalar,80,8.33,1,395,Sudeste
+2023-04-14,P004,Vitamina C,Suplementos,111,25.81,0,247,Sul
+2023-08-22,P001,Paracetamol 500mg,Medicamentos,152,21.24,0,299,Centro-Oeste
+2023-07-11,P002,Álcool Gel 70%,Higiene,89,23.27,0,425,Centro-Oeste
+2023-08-15,P003,Luvas Cirúrgicas,Hospitalar,68,21.38,1,360,Sudeste
+2023-07-28,P004,Vitamina C,Suplementos,71,16.26,1,439,Sul
+2023-08-10,P004,Vitamina C,Suplementos,96,14.76,1,228,Sul
+2023-02-02,P002,Álcool Gel 70%,Higiene,48,17.56,1,295,Centro-Oeste
+2023-06-09,P002,Álcool Gel 70%,Higiene,73,27.56,1,193,Centro-Oeste
+2023-04-11,P003,Luvas Cirúrgicas,Hospitalar,135,13.1,0,357,Sudeste
+2023-07-16,P001,Paracetamol 500mg,Medicamentos,94,13.18,0,176,Centro-Oeste
+2023-07-12,P003,Luvas Cirúrgicas,Hospitalar,158,23.03,0,300,Sudeste
+2023-07-03,P004,Vitamina C,Suplementos,81,15.64,1,316,Sul
+2023-08-17,P002,Álcool Gel 70%,Higiene,49,28.1,0,384,Centro-Oeste
+2023-02-24,P004,Vitamina C,Suplementos,114,23.85,0,314,Sul
+2023-06-10,P002,Álcool Gel 70%,Higiene,21,25.65,1,315,Centro-Oeste
+2023-08-17,P004,Vitamina C,Suplementos,118,25.22,0,323,Sul
+2023-07-08,P001,Paracetamol 500mg,Medicamentos,117,12.03,0,224,Centro-Oeste
+2023-07-21,P003,Luvas Cirúrgicas,Hospitalar,78,19.81,1,281,Sudeste
+2023-08-18,P004,Vitamina C,Suplementos,119,14.88,0,455,Sul
+2023-06-06,P001,Paracetamol 500mg,Medicamentos,154,12.69,0,284,Centro-Oeste
+2023-08-07,P003,Luvas Cirúrgicas,Hospitalar,78,29.78,0,368,Sudeste
+2023-07-10,P001,Paracetamol 500mg,Medicamentos,69,7.52,0,280,Centro-Oeste
+2023-04-07,P003,Luvas Cirúrgicas,Hospitalar,58,15.46,0,282,Sudeste
+2023-09-01,P001,Paracetamol 500mg,Medicamentos,12,15.8,1,464,Centro-Oeste
+2023-05-08,P002,Álcool Gel 70%,Higiene,57,21.05,0,293,Centro-Oeste
+2023-03-08,P004,Vitamina C,Suplementos,103,14.96,0,243,Sul
+2023-07-24,P004,Vitamina C,Suplementos,82,20.99,0,326,Sul
+2023-04-21,P002,Álcool Gel 70%,Higiene,99,17.05,1,441,Centro-Oeste
+2023-05-05,P001,Paracetamol 500mg,Medicamentos,128,27.52,0,436,Centro-Oeste
+2023-01-29,P001,Paracetamol 500mg,Medicamentos,36,20.42,0,257,Centro-Oeste
+2023-06-22,P004,Vitamina C,Suplementos,152,21.67,0,410,Sul
+2023-02-28,P001,Paracetamol 500mg,Medicamentos,86,8.77,0,275,Centro-Oeste
+2023-08-06,P002,Álcool Gel 70%,Higiene,136,16.92,0,311,Centro-Oeste
+2023-06-01,P004,Vitamina C,Suplementos,51,8.51,0,233,Sul
+2023-06-17,P004,Vitamina C,Suplementos,81,8.57,1,422,Sul
+2023-04-04,P002,Álcool Gel 70%,Higiene,94,10.99,0,239,Centro-Oeste
+2023-09-03,P002,Álcool Gel 70%,Higiene,145,14.25,0,353,Centro-Oeste
+2023-07-30,P003,Luvas Cirúrgicas,Hospitalar,121,16.19,0,323,Sudeste
+2023-02-28,P002,Álcool Gel 70%,Higiene,137,8.5,0,228,Centro-Oeste
+2023-07-16,P002,Álcool Gel 70%,Higiene,92,29.38,1,280,Centro-Oeste
+2023-06-19,P001,Paracetamol 500mg,Medicamentos,110,8.55,0,296,Centro-Oeste
+2023-03-21,P002,Álcool Gel 70%,Higiene,97,19.22,1,297,Centro-Oeste
+2023-06-12,P001,Paracetamol 500mg,Medicamentos,48,14.48,1,245,Centro-Oeste
+2023-04-13,P003,Luvas Cirúrgicas,Hospitalar,93,27.4,0,277,Sudeste
+2023-08-13,P003,Luvas Cirúrgicas,Hospitalar,126,26.92,0,446,Sudeste
+2023-06-27,P002,Álcool Gel 70%,Higiene,188,15.21,0,399,Centro-Oeste
+2023-03-31,P003,Luvas Cirúrgicas,Hospitalar,107,27.24,0,175,Sudeste
+2023-03-06,P003,Luvas Cirúrgicas,Hospitalar,124,23.04,0,340,Sudeste
+2023-07-06,P001,Paracetamol 500mg,Medicamentos,108,27.89,1,337,Centro-Oeste
+2023-06-06,P004,Vitamina C,Suplementos,62,14.4,1,348,Sul
+2023-06-08,P001,Paracetamol 500mg,Medicamentos,44,25.11,0,380,Centro-Oeste
+2023-03-12,P003,Luvas Cirúrgicas,Hospitalar,86,7.27,0,148,Sudeste
+2023-04-05,P001,Paracetamol 500mg,Medicamentos,100,16.17,0,195,Centro-Oeste
+2023-04-07,P001,Paracetamol 500mg,Medicamentos,104,25.72,0,300,Centro-Oeste
+2023-02-26,P001,Paracetamol 500mg,Medicamentos,118,15.3,0,174,Centro-Oeste
+2023-08-27,P002,Álcool Gel 70%,Higiene,133,19.43,0,254,Centro-Oeste
+2023-07-23,P003,Luvas Cirúrgicas,Hospitalar,84,26.03,0,411,Sudeste
+2023-04-29,P001,Paracetamol 500mg,Medicamentos,135,23.55,1,507,Centro-Oeste
+2023-03-28,P004,Vitamina C,Suplementos,78,21.05,0,246,Sul
+2023-05-07,P002,Álcool Gel 70%,Higiene,165,28.86,0,285,Centro-Oeste
+2023-06-09,P004,Vitamina C,Suplementos,56,20.6,0,299,Sul
+2023-09-04,P004,Vitamina C,Suplementos,136,16.66,0,229,Sul
+2023-08-21,P001,Paracetamol 500mg,Medicamentos,138,14.52,0,327,Centro-Oeste
+2023-08-15,P002,Álcool Gel 70%,Higiene,50,24.68,0,258,Centro-Oeste
+2023-06-04,P004,Vitamina C,Suplementos,57,8.15,1,278,Sul
+2023-08-02,P004,Vitamina C,Suplementos,105,19.23,0,335,Sul
+2023-07-20,P004,Vitamina C,Suplementos,106,11.26,0,212,Sul
+2023-06-11,P002,Álcool Gel 70%,Higiene,79,29.38,0,302,Centro-Oeste
+2023-07-31,P003,Luvas Cirúrgicas,Hospitalar,110,25.83,1,287,Sudeste
+2023-05-20,P001,Paracetamol 500mg,Medicamentos,131,29.56,0,317,Centro-Oeste
+2023-08-28,P002,Álcool Gel 70%,Higiene,168,26.06,1,267,Centro-Oeste
+2023-05-25,P002,Álcool Gel 70%,Higiene,114,19.71,0,340,Centro-Oeste
+2023-07-18,P004,Vitamina C,Suplementos,154,24.87,1,365,Sul
+2023-01-22,P002,Álcool Gel 70%,Higiene,95,29.11,1,347,Centro-Oeste
+2023-03-02,P003,Luvas Cirúrgicas,Hospitalar,129,28.73,0,282,Sudeste
+2023-06-24,P003,Luvas Cirúrgicas,Hospitalar,77,15.54,1,303,Sudeste
+2023-02-09,P004,Vitamina C,Suplementos,115,17.85,0,415,Sul
+2023-05-12,P001,Paracetamol 500mg,Medicamentos,65,7.27,0,308,Centro-Oeste
+2023-01-09,P004,Vitamina C,Suplementos,94,10.33,0,324,Sul
+2023-05-16,P001,Paracetamol 500mg,Medicamentos,92,13.65,1,427,Centro-Oeste
+2023-02-12,P003,Luvas Cirúrgicas,Hospitalar,118,27.56,1,481,Sudeste
+2023-06-13,P003,Luvas Cirúrgicas,Hospitalar,88,18.82,0,320,Sudeste
+2023-08-11,P003,Luvas Cirúrgicas,Hospitalar,81,10.43,0,336,Sudeste
+2023-08-03,P002,Álcool Gel 70%,Higiene,101,23.44,0,335,Centro-Oeste
+2023-07-31,P004,Vitamina C,Suplementos,42,8.16,0,231,Sul
+2023-08-25,P001,Paracetamol 500mg,Medicamentos,82,14.8,0,286,Centro-Oeste
+2023-07-03,P002,Álcool Gel 70%,Higiene,98,8.54,1,304,Centro-Oeste
+2023-01-24,P004,Vitamina C,Suplementos,75,13.74,0,467,Sul
+2023-05-21,P004,Vitamina C,Suplementos,128,13.78,0,341,Sul
+2023-03-02,P001,Paracetamol 500mg,Medicamentos,69,7.97,0,238,Centro-Oeste
+2023-07-05,P003,Luvas Cirúrgicas,Hospitalar,102,10.23,0,412,Sudeste
+2023-05-24,P003,Luvas Cirúrgicas,Hospitalar,140,9.83,1,195,Sudeste
+2023-06-22,P003,Luvas Cirúrgicas,Hospitalar,96,12.95,0,366,Sudeste
+2023-04-26,P001,Paracetamol 500mg,Medicamentos,103,11.71,1,429,Centro-Oeste
+2023-05-19,P002,Álcool Gel 70%,Higiene,111,18.12,1,297,Centro-Oeste
+2023-08-11,P001,Paracetamol 500mg,Medicamentos,12,14.69,0,270,Centro-Oeste
+2023-02-21,P003,Luvas Cirúrgicas,Hospitalar,37,13.77,1,435,Sudeste
+2023-04-09,P001,Paracetamol 500mg,Medicamentos,86,23.96,0,229,Centro-Oeste
+2023-07-18,P003,Luvas Cirúrgicas,Hospitalar,96,17.54,1,249,Sudeste
+2023-04-10,P002,Álcool Gel 70%,Higiene,139,8.53,0,424,Centro-Oeste
+2023-07-11,P003,Luvas Cirúrgicas,Hospitalar,114,28.35,1,188,Sudeste
+2023-08-01,P001,Paracetamol 500mg,Medicamentos,87,12.21,0,451,Centro-Oeste
+2023-02-24,P002,Álcool Gel 70%,Higiene,81,13.64,0,187,Centro-Oeste
+2023-01-02,P001,Paracetamol 500mg,Medicamentos,107,16.93,0,146,Centro-Oeste
+2023-07-12,P001,Paracetamol 500mg,Medicamentos,118,20.64,0,370,Centro-Oeste
+2023-06-10,P003,Luvas Cirúrgicas,Hospitalar,137,24.74,0,214,Sudeste
+2023-08-21,P002,Álcool Gel 70%,Higiene,150,22.69,0,224,Centro-Oeste
+2023-06-03,P001,Paracetamol 500mg,Medicamentos,114,15.93,0,391,Centro-Oeste
+2023-07-04,P003,Luvas Cirúrgicas,Hospitalar,126,23.3,0,401,Sudeste
+2023-05-17,P003,Luvas Cirúrgicas,Hospitalar,40,20.35,0,359,Sudeste
+2023-07-01,P002,Álcool Gel 70%,Higiene,73,22.92,0,267,Centro-Oeste
+2023-06-20,P004,Vitamina C,Suplementos,124,23.25,0,208,Sul
+2023-01-25,P003,Luvas Cirúrgicas,Hospitalar,129,15.07,0,288,Sudeste
+2023-07-21,P001,Paracetamol 500mg,Medicamentos,81,25.99,0,256,Centro-Oeste
+2023-07-01,P004,Vitamina C,Suplementos,91,25.23,0,295,Sul
+2023-05-24,P002,Álcool Gel 70%,Higiene,119,29.52,0,200,Centro-Oeste
+2023-04-12,P003,Luvas Cirúrgicas,Hospitalar,80,29.54,0,374,Sudeste
+2023-05-06,P003,Luvas Cirúrgicas,Hospitalar,115,27.53,0,409,Sudeste
+2023-01-12,P004,Vitamina C,Suplementos,108,7.12,0,242,Sul
+2023-01-09,P001,Paracetamol 500mg,Medicamentos,107,29.14,0,294,Centro-Oeste
+2023-07-14,P004,Vitamina C,Suplementos,66,26.85,1,349,Sul
+2023-07-29,P004,Vitamina C,Suplementos,42,20.71,0,294,Sul
+2023-02-20,P001,Paracetamol 500mg,Medicamentos,92,23.61,1,270,Centro-Oeste
+2023-02-03,P003,Luvas Cirúrgicas,Hospitalar,96,11.75,0,217,Sudeste
+2023-01-07,P004,Vitamina C,Suplementos,102,25.57,1,377,Sul
+2023-08-09,P001,Paracetamol 500mg,Medicamentos,114,28.31,0,271,Centro-Oeste
+2023-02-27,P003,Luvas Cirúrgicas,Hospitalar,98,26.83,1,354,Sudeste
+2023-05-03,P002,Álcool Gel 70%,Higiene,83,24.02,1,292,Centro-Oeste
+2023-07-13,P001,Paracetamol 500mg,Medicamentos,116,17.47,0,229,Centro-Oeste
+2023-04-05,P003,Luvas Cirúrgicas,Hospitalar,101,29.21,0,342,Sudeste
+2023-03-14,P001,Paracetamol 500mg,Medicamentos,92,7.76,0,245,Centro-Oeste
+2023-04-15,P003,Luvas Cirúrgicas,Hospitalar,122,21.63,1,330,Sudeste
+2023-06-18,P003,Luvas Cirúrgicas,Hospitalar,133,11.58,0,415,Sudeste
+2023-04-08,P004,Vitamina C,Suplementos,135,9.26,0,287,Sul
+2023-05-29,P001,Paracetamol 500mg,Medicamentos,86,25.91,1,416,Centro-Oeste
+2023-05-05,P003,Luvas Cirúrgicas,Hospitalar,102,8.46,1,392,Sudeste
+2023-02-04,P003,Luvas Cirúrgicas,Hospitalar,84,15.52,0,253,Sudeste
+2023-01-16,P003,Luvas Cirúrgicas,Hospitalar,132,15.27,0,384,Sudeste
+2023-04-28,P004,Vitamina C,Suplementos,68,27.28,0,334,Sul
+2023-06-11,P004,Vitamina C,Suplementos,120,24.06,1,208,Sul
+2023-02-02,P001,Paracetamol 500mg,Medicamentos,148,26.83,1,189,Centro-Oeste
+2023-09-02,P001,Paracetamol 500mg,Medicamentos,86,10.91,0,282,Centro-Oeste
+2023-05-11,P001,Paracetamol 500mg,Medicamentos,96,8.84,0,306,Centro-Oeste
+2023-07-29,P003,Luvas Cirúrgicas,Hospitalar,110,19.22,0,254,Sudeste
+2023-08-29,P003,Luvas Cirúrgicas,Hospitalar,83,20.79,1,288,Sudeste
+2023-01-17,P001,Paracetamol 500mg,Medicamentos,115,25.36,0,608,Centro-Oeste
+2023-07-23,P001,Paracetamol 500mg,Medicamentos,32,24.49,0,130,Centro-Oeste
+2023-01-04,P003,Luvas Cirúrgicas,Hospitalar,86,13.46,0,384,Sudeste
+2023-02-09,P001,Paracetamol 500mg,Medicamentos,119,10.55,0,167,Centro-Oeste
+2023-01-11,P001,Paracetamol 500mg,Medicamentos,72,28.54,0,423,Centro-Oeste
+2023-05-04,P001,Paracetamol 500mg,Medicamentos,71,26.08,0,386,Centro-Oeste
+2023-04-05,P004,Vitamina C,Suplementos,101,17.11,0,141,Sul
+2023-02-16,P004,Vitamina C,Suplementos,92,10.24,0,179,Sul
+2023-07-10,P004,Vitamina C,Suplementos,111,19.96,0,387,Sul
+2023-02-24,P001,Paracetamol 500mg,Medicamentos,115,8.9,0,241,Centro-Oeste
+2023-07-17,P004,Vitamina C,Suplementos,89,20.36,0,324,Sul
+2023-01-14,P001,Paracetamol 500mg,Medicamentos,97,27.52,0,327,Centro-Oeste
+2023-08-08,P003,Luvas Cirúrgicas,Hospitalar,111,8.93,0,320,Sudeste
+2023-03-26,P002,Álcool Gel 70%,Higiene,141,25.7,1,345,Centro-Oeste
+2023-07-07,P001,Paracetamol 500mg,Medicamentos,88,27.88,0,187,Centro-Oeste
+2023-06-29,P004,Vitamina C,Suplementos,172,12.64,0,334,Sul
+2023-07-01,P001,Paracetamol 500mg,Medicamentos,69,20.93,0,306,Centro-Oeste
+2023-03-15,P004,Vitamina C,Suplementos,152,8.88,0,315,Sul
+2023-06-25,P002,Álcool Gel 70%,Higiene,59,23.23,0,355,Centro-Oeste
+2023-03-04,P004,Vitamina C,Suplementos,108,22.07,0,326,Sul
+2023-07-01,P003,Luvas Cirúrgicas,Hospitalar,125,11.7,0,281,Sudeste
+2023-04-26,P002,Álcool Gel 70%,Higiene,91,29.65,1,174,Centro-Oeste
+2023-04-24,P004,Vitamina C,Suplementos,67,10.81,1,66,Sul
+2023-09-07,P001,Paracetamol 500mg,Medicamentos,109,13.01,0,416,Centro-Oeste
+2023-07-23,P004,Vitamina C,Suplementos,104,21.15,1,129,Sul
+2023-08-04,P003,Luvas Cirúrgicas,Hospitalar,152,22.14,0,231,Sudeste
+2023-03-09,P002,Álcool Gel 70%,Higiene,146,22.72,0,294,Centro-Oeste
+2023-02-20,P002,Álcool Gel 70%,Higiene,89,22.37,0,392,Centro-Oeste
+2023-02-10,P002,Álcool Gel 70%,Higiene,111,28.58,0,251,Centro-Oeste
+2023-05-19,P004,Vitamina C,Suplementos,82,18.76,0,409,Sul
+2023-07-02,P002,Álcool Gel 70%,Higiene,108,26.23,1,440,Centro-Oeste
+2023-04-11,P002,Álcool Gel 70%,Higiene,68,11.0,0,342,Centro-Oeste
+2023-06-25,P003,Luvas Cirúrgicas,Hospitalar,159,28.53,0,238,Sudeste
+2023-04-30,P001,Paracetamol 500mg,Medicamentos,138,14.71,0,298,Centro-Oeste
+2023-07-25,P002,Álcool Gel 70%,Higiene,83,24.77,0,328,Centro-Oeste
+2023-07-12,P004,Vitamina C,Suplementos,77,21.63,0,261,Sul
+2023-01-27,P002,Álcool Gel 70%,Higiene,99,8.29,0,276,Centro-Oeste
+2023-05-22,P002,Álcool Gel 70%,Higiene,124,22.15,1,360,Centro-Oeste
+2023-04-08,P002,Álcool Gel 70%,Higiene,83,19.31,0,331,Centro-Oeste
+2023-01-01,P002,Álcool Gel 70%,Higiene,92,8.34,1,281,Centro-Oeste
+2023-08-23,P002,Álcool Gel 70%,Higiene,67,14.08,0,366,Centro-Oeste
+2023-09-03,P003,Luvas Cirúrgicas,Hospitalar,90,11.12,1,282,Sudeste
+2023-05-21,P002,Álcool Gel 70%,Higiene,76,13.89,0,332,Centro-Oeste
+2023-01-21,P001,Paracetamol 500mg,Medicamentos,148,21.61,0,185,Centro-Oeste
+2023-02-21,P002,Álcool Gel 70%,Higiene,53,21.36,0,348,Centro-Oeste
+2023-01-09,P003,Luvas Cirúrgicas,Hospitalar,101,8.18,0,497,Sudeste
+2023-07-13,P004,Vitamina C,Suplementos,101,18.24,0,344,Sul
+2023-05-08,P001,Paracetamol 500mg,Medicamentos,87,29.35,0,244,Centro-Oeste
+2023-04-17,P004,Vitamina C,Suplementos,54,25.27,0,401,Sul
+2023-04-24,P003,Luvas Cirúrgicas,Hospitalar,105,19.5,0,270,Sudeste
+2023-04-02,P003,Luvas Cirúrgicas,Hospitalar,105,9.94,1,275,Sudeste
+2023-01-23,P004,Vitamina C,Suplementos,116,26.74,0,283,Sul
+2023-03-26,P004,Vitamina C,Suplementos,77,18.18,0,277,Sul
+2023-08-13,P002,Álcool Gel 70%,Higiene,64,8.87,1,371,Centro-Oeste
+2023-05-22,P001,Paracetamol 500mg,Medicamentos,121,24.03,0,341,Centro-Oeste
+2023-03-28,P002,Álcool Gel 70%,Higiene,106,8.0,0,409,Centro-Oeste
+2023-07-14,P001,Paracetamol 500mg,Medicamentos,107,13.37,1,207,Centro-Oeste
+2023-03-02,P002,Álcool Gel 70%,Higiene,98,15.84,0,318,Centro-Oeste
+2023-01-04,P002,Álcool Gel 70%,Higiene,96,15.94,0,275,Centro-Oeste
+2023-03-20,P004,Vitamina C,Suplementos,90,26.42,1,466,Sul
+2023-05-31,P001,Paracetamol 500mg,Medicamentos,172,7.23,0,362,Centro-Oeste
+2023-04-07,P004,Vitamina C,Suplementos,116,24.69,0,360,Sul
+2023-03-10,P002,Álcool Gel 70%,Higiene,119,16.65,0,292,Centro-Oeste
+2023-02-11,P003,Luvas Cirúrgicas,Hospitalar,38,17.64,0,219,Sudeste
+2023-07-30,P001,Paracetamol 500mg,Medicamentos,127,14.91,1,308,Centro-Oeste
+2023-09-06,P001,Paracetamol 500mg,Medicamentos,82,22.39,0,206,Centro-Oeste
+2023-06-11,P003,Luvas Cirúrgicas,Hospitalar,67,12.3,0,213,Sudeste
+2023-07-24,P003,Luvas Cirúrgicas,Hospitalar,98,12.46,0,266,Sudeste
+2023-05-02,P001,Paracetamol 500mg,Medicamentos,69,7.76,0,245,Centro-Oeste
+2023-09-03,P001,Paracetamol 500mg,Medicamentos,89,14.71,0,294,Centro-Oeste
+2023-05-07,P001,Paracetamol 500mg,Medicamentos,102,9.4,0,171,Centro-Oeste
+2023-07-27,P004,Vitamina C,Suplementos,119,8.42,0,284,Sul
+2023-03-02,P004,Vitamina C,Suplementos,66,29.8,0,330,Sul
+2023-05-22,P003,Luvas Cirúrgicas,Hospitalar,110,9.04,0,385,Sudeste
+2023-08-07,P004,Vitamina C,Suplementos,149,22.83,0,385,Sul
+2023-05-21,P003,Luvas Cirúrgicas,Hospitalar,81,11.85,1,368,Sudeste
+2023-06-21,P003,Luvas Cirúrgicas,Hospitalar,131,16.39,0,393,Sudeste
+2023-02-17,P002,Álcool Gel 70%,Higiene,155,7.3,0,390,Centro-Oeste
+2023-07-15,P003,Luvas Cirúrgicas,Hospitalar,84,29.43,1,284,Sudeste
+2023-06-24,P004,Vitamina C,Suplementos,132,13.18,0,489,Sul
+2023-04-29,P004,Vitamina C,Suplementos,139,17.56,0,290,Sul
+2023-06-20,P002,Álcool Gel 70%,Higiene,83,20.78,0,278,Centro-Oeste
+2023-05-08,P003,Luvas Cirúrgicas,Hospitalar,102,7.13,0,183,Sudeste
+2023-01-15,P003,Luvas Cirúrgicas,Hospitalar,74,26.58,0,178,Sudeste
+2023-04-29,P003,Luvas Cirúrgicas,Hospitalar,105,23.34,0,405,Sudeste
+2023-05-21,P001,Paracetamol 500mg,Medicamentos,99,22.82,1,268,Centro-Oeste
+2023-08-03,P001,Paracetamol 500mg,Medicamentos,25,10.71,0,247,Centro-Oeste
+2023-07-06,P004,Vitamina C,Suplementos,74,14.22,0,247,Sul
+2023-03-05,P001,Paracetamol 500mg,Medicamentos,94,15.57,0,236,Centro-Oeste
+2023-01-06,P002,Álcool Gel 70%,Higiene,110,24.5,0,248,Centro-Oeste
+2023-03-20,P002,Álcool Gel 70%,Higiene,53,21.19,1,265,Centro-Oeste
+2023-04-25,P004,Vitamina C,Suplementos,80,10.79,0,236,Sul
+2023-02-10,P001,Paracetamol 500mg,Medicamentos,117,26.1,1,283,Centro-Oeste
+2023-03-11,P001,Paracetamol 500mg,Medicamentos,62,26.88,0,415,Centro-Oeste
+2023-08-27,P004,Vitamina C,Suplementos,97,16.95,0,293,Sul
+2023-02-17,P004,Vitamina C,Suplementos,177,8.54,1,304,Sul
+2023-04-07,P002,Álcool Gel 70%,Higiene,128,19.12,0,181,Centro-Oeste
+2023-07-21,P002,Álcool Gel 70%,Higiene,66,15.61,1,317,Centro-Oeste
+2023-04-14,P002,Álcool Gel 70%,Higiene,114,24.86,0,358,Centro-Oeste
+2023-05-03,P004,Vitamina C,Suplementos,122,7.41,1,349,Sul
+2023-03-27,P004,Vitamina C,Suplementos,103,23.31,0,193,Sul
+2023-07-12,P002,Álcool Gel 70%,Higiene,158,22.58,0,259,Centro-Oeste
+2023-03-19,P001,Paracetamol 500mg,Medicamentos,123,15.26,0,72,Centro-Oeste
+2023-06-15,P002,Álcool Gel 70%,Higiene,120,15.84,0,367,Centro-Oeste
+2023-02-02,P003,Luvas Cirúrgicas,Hospitalar,37,21.57,0,292,Sudeste
+2023-06-15,P004,Vitamina C,Suplementos,115,8.19,0,303,Sul
+2023-08-06,P004,Vitamina C,Suplementos,41,20.18,0,311,Sul
+2023-01-25,P004,Vitamina C,Suplementos,112,21.22,0,254,Sul
+2023-04-04,P001,Paracetamol 500mg,Medicamentos,108,25.17,0,325,Centro-Oeste
+2023-01-22,P004,Vitamina C,Suplementos,82,9.72,0,367,Sul
+2023-04-25,P003,Luvas Cirúrgicas,Hospitalar,94,8.2,1,409,Sudeste
+2023-03-24,P003,Luvas Cirúrgicas,Hospitalar,91,25.81,0,410,Sudeste
+2023-02-23,P003,Luvas Cirúrgicas,Hospitalar,107,20.81,0,378,Sudeste
+2023-04-27,P003,Luvas Cirúrgicas,Hospitalar,102,10.63,0,368,Sudeste
+2023-01-31,P002,Álcool Gel 70%,Higiene,103,12.26,0,341,Centro-Oeste
+2023-06-03,P003,Luvas Cirúrgicas,Hospitalar,129,23.28,0,293,Sudeste
+2023-01-06,P001,Paracetamol 500mg,Medicamentos,124,27.41,0,408,Centro-Oeste
+2023-06-25,P001,Paracetamol 500mg,Medicamentos,109,25.11,0,357,Centro-Oeste
+2023-01-18,P004,Vitamina C,Suplementos,39,25.29,0,314,Sul
+2023-01-27,P003,Luvas Cirúrgicas,Hospitalar,109,24.16,0,233,Sudeste
+2023-03-09,P003,Luvas Cirúrgicas,Hospitalar,56,10.76,1,124,Sudeste
+2023-08-04,P001,Paracetamol 500mg,Medicamentos,134,25.74,0,273,Centro-Oeste
+2023-04-19,P004,Vitamina C,Suplementos,69,21.63,1,448,Sul
+2023-01-26,P003,Luvas Cirúrgicas,Hospitalar,56,25.69,1,187,Sudeste
