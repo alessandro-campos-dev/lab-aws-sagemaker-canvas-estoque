@@ -5,7 +5,7 @@ Nome do Modelo: estoque-prediction-model-v1
 
 Ambiente: SageMaker Canvas (No-code/Low-code)
 
-Data de Treinamento: 26/01/2024
+Data de Treinamento: 20/01/2026
 
 Versão: 1.0.0
 
